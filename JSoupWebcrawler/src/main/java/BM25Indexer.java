@@ -33,7 +33,7 @@ public class BM25Indexer {
 	 		BM25Dictionary.addToken(Term, DocID)
 	 			BM25Token.addPosting(Term, DocID)
 	 */
-	public void constructIndex(ArrayList<ReutersArticle> articles, BM25Dictionary dictionary, double avdl){
+	public void constructIndex(ArrayList<HTMLToken> htmlTokens, BM25Dictionary dictionary, double avdl){
 		//VARIABLES
 		BM25Token token;
 		String term;
@@ -41,26 +41,29 @@ public class BM25Indexer {
 		int docID;
 		int corpusSize = 0;
 		dictionary.setAVDL(avdl);
-		dictionary.setNumOfDocs(articles.size());
-			for (int i = 0 ; i < articles.size() ; i++){
-				if ( i % 1000 == 0 )
+		dictionary.setNumOfDocs(htmlTokens.size());
+			for (int i = 0 ; i < htmlTokens.size() ; i++){
+				//GET TITLE
+				dictionary.searchAndAdd( htmlTokens.get(i).getTitle(), htmlTokens.get(i).getDocID(), "TITLE", htmlTokens.get(i).textSize() );
+				if ( i % 100 == 0 )
 					System.out.println("CONSTRUCTED RANKED INDEXES FOR THE FIRST " + i + " ARTICLES");
-					for (int j = 0 ; j < articles.get(i).countTokens() ; j++ ){
+					for (int j = 0 ; j < htmlTokens.get(i).textSize() ; j++ ){
 						corpusSize++;
 						//GET THE TERM AND DOCID
-						term = articles.get(i).getToken(j).getValue();
-						docID = Integer.parseInt(articles.get(i).getToken(j).getNewId());
-						tag = articles.get(i).getToken(j).getReuterTag();
+						term = htmlTokens.get(i).getText(j);
+						docID = htmlTokens.get(i).getDocID();
 						//SEARCH AND ADD THE DATA
-						dictionary.searchAndAdd( term, docID, tag, articles.get(i).countTokens() );
+						dictionary.searchAndAdd( term, docID, "TEXT", htmlTokens.get(i).textSize() );
 					}//close for j each token in the article
 			}//close loop for i each 500 articles
 			//SORT DICTIONARY
 			dictionary.sort();
 			dictionary.sortPostings();
 			//GET AVERAGE DOC LENGTH
-			dictionary.setAVDL( corpusSize / articles.size() );
-	}//close function construct Index		
+			dictionary.setAVDL( corpusSize / htmlTokens.size() );
+	}//close function construct Index	
+	
+	
 	public void constructPartialIndex(ArrayList<ReutersArticle> articles, BM25Dictionary dictionary, double avdl){
 		//VARIABLES
 		BM25Token token;

@@ -9,9 +9,7 @@ import java.util.ArrayList;
 public class HTMLPreprocessor {
 
 	//ATTRIBUTES
-
 	//CONSTRUCTOR
-
 	//SETTERS AND GETTERS
 
 	//SERVICE METHODS

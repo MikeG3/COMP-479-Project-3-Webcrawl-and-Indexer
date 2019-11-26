@@ -1,0 +1,497 @@
+			0 <TEXT>  (22) Rank: 0.0, 1 <TEXT>  (27) Rank: 0.0, 2 <TEXT>  (72) Rank: 0.0
+1  2019 *			1 <TEXT>  (1) Rank: 0.0
+1m8			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+1r6			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+2011-2012			2 <TEXT>  (1) Rank: 0.0
+2012-2013			2 <TEXT>  (1) Rank: 0.0
+2013-2014			2 <TEXT>  (1) Rank: 0.0
+2014-2015			2 <TEXT>  (1) Rank: 0.0
+2015-2016			2 <TEXT>  (1) Rank: 0.0
+2016-2017			2 <TEXT>  (1) Rank: 0.0
+2017-2018			2 <TEXT>  (1) Rank: 0.0
+2018-2019			2 <TEXT>  (1) Rank: 0.0
+2019-2020			2 <TEXT>  (1) Rank: 0.0
+3m			0 <TEXT>  (2) Rank: 0.0
+514-848-2424			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+a-z			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+abroad			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+academic			0 <TEXT>  (11) Rank: 0.0, 1 <TEXT>  (17) Rank: 0.0, 2 <TEXT>  (18) Rank: 0.0
+academics			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (3) Rank: 0.0, 2 <TEXT>  (3) Rank: 0.0
+accessibility			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+accordance			2 <TEXT>  (1) Rank: 0.0
+accurate			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+act			2 <TEXT>  (1) Rank: 0.0
+addition			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+administration			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+administrative			2 <TEXT>  (2) Rank: 0.0
+admission			1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+admissions			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+advance			0 <TEXT>  (1) Rank: 0.0
+advised			2 <TEXT>  (1) Rank: 0.0
+aerospace			0 <TEXT>  (1) Rank: 0.0
+ai			0 <TEXT>  (1) Rank: 0.0
+aid			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+alumni			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+and/or			2 <TEXT>  (1) Rank: 0.0
+animals			0 <TEXT>  (2) Rank: 0.0
+applicants			1 <TEXT>  (1) Rank: 0.0
+application			1 <TEXT>  (2) Rank: 0.0
+appropriate			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+approved			1 <TEXT>  (1) Rank: 0.0
+archived			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (3) Rank: 0.0
+archives			1 <TEXT>  (1) Rank: 0.0
+arising			2 <TEXT>  (2) Rank: 0.0
+arrange			1 <TEXT>  (1) Rank: 0.0
+arts			0 <TEXT>  (10) Rank: 0.0, 1 <TEXT>  (11) Rank: 0.0, 2 <TEXT>  (9) Rank: 0.0
+assist			2 <TEXT>  (1) Rank: 0.0
+athletics			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+august			1 <TEXT>  (1) Rank: 0.0
+available			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+awards			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+back			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+becomes			2 <TEXT>  (1) Rank: 0.0
+beginning			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+better			0 <TEXT>  (2) Rank: 0.0
+beyond			2 <TEXT>  (1) Rank: 0.0
+big			0 <TEXT>  (1) Rank: 0.0
+biohealth			0 <TEXT>  (1) Rank: 0.0
+biology			0 <TEXT>  (1) Rank: 0.0
+birks			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+blvd			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+bound			2 <TEXT>  (1) Rank: 0.0
+bus			0 <TEXT>  (5) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (5) Rank: 0.0
+business			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+café			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+calendar			0 <TEXT>  (12) Rank: 0.0, 1 <TEXT>  (18) Rank: 0.0, 2 <TEXT>  (28) Rank: 0.0
+calendars			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+calendars”			2 <TEXT>  (1) Rank: 0.0
+call			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+calling			0 <TEXT>  (1) Rank: 0.0
+campaign			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+campus			0 <TEXT>  (19) Rank: 0.0, 1 <TEXT>  (19) Rank: 0.0, 2 <TEXT>  (19) Rank: 0.0
+campuses			2 <TEXT>  (1) Rank: 0.0
+canada			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+cancellations			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+cases			1 <TEXT>  (1) Rank: 0.0
+cause			0 <TEXT>  (1) Rank: 0.0
+centre			0 <TEXT>  (8) Rank: 0.0, 1 <TEXT>  (8) Rank: 0.0, 2 <TEXT>  (8) Rank: 0.0
+centres			0 <TEXT>  (1) Rank: 0.0
+certificate			2 <TEXT>  (1) Rank: 0.0
+chairs			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+challenges			0 <TEXT>  (1) Rank: 0.0
+changing			0 <TEXT>  (1) Rank: 0.0
+chosen			2 <TEXT>  (1) Rank: 0.0
+cities			0 <TEXT>  (1) Rank: 0.0
+city			0 <TEXT>  (3) Rank: 0.0
+class			0 <TEXT>  (8) Rank: 0.0, 1 <TEXT>  (8) Rank: 0.0, 2 <TEXT>  (9) Rank: 0.0
+classes			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+classification			1 <TEXT>  (1) Rank: 0.0
+co-operative			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+cody			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+colleges			0 <TEXT>  (8) Rank: 0.0, 1 <TEXT>  (8) Rank: 0.0, 2 <TEXT>  (8) Rank: 0.0
+commencement			1 <TEXT>  (1) Rank: 0.0
+community			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+complete			1 <TEXT>  (1) Rank: 0.0
+computer			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (5) Rank: 0.0
+computing			2 <TEXT>  (1) Rank: 0.0
+concordia			0 <TEXT>  (25) Rank: 0.0, 1 <TEXT>  (21) Rank: 0.0, 2 <TEXT>  (24) Rank: 0.0
+concordia ca			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+concordia's			0 <TEXT>  (1) Rank: 0.0
+conferral			2 <TEXT>  (1) Rank: 0.0
+connected			2 <TEXT>  (1) Rank: 0.0
+conrad			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+constitutes			2 <TEXT>  (1) Rank: 0.0
+consult			2 <TEXT>  (1) Rank: 0.0
+consulted			2 <TEXT>  (1) Rank: 0.0
+contained			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+continuing			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+control			2 <TEXT>  (1) Rank: 0.0
+correction			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+corresponding			2 <TEXT>  (1) Rank: 0.0
+cotutelle			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+course			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (7) Rank: 0.0
+courses			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (5) Rank: 0.0
+cspace			0 <TEXT>  (3) Rank: 0.0, 1 <TEXT>  (3) Rank: 0.0, 2 <TEXT>  (3) Rank: 0.0
+culture			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+Current			1 <TITLE>  (1) Rank: 0.0
+current			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (3) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+currently			2 <TEXT>  (1) Rank: 0.0
+curriculum			2 <TEXT>  (1) Rank: 0.0
+cut			0 <TEXT>  (2) Rank: 0.0
+damage			2 <TEXT>  (2) Rank: 0.0
+damages			2 <TEXT>  (1) Rank: 0.0
+data			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+date			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (3) Rank: 0.0
+dates			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+de			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+deadline			1 <TEXT>  (1) Rank: 0.0
+deadlines			1 <TEXT>  (3) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+dean			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+death			0 <TEXT>  (1) Rank: 0.0
+define			0 <TEXT>  (2) Rank: 0.0
+defines			2 <TEXT>  (1) Rank: 0.0
+defining			1 <TEXT>  (1) Rank: 0.0
+degree			2 <TEXT>  (2) Rank: 0.0
+delays			2 <TEXT>  (1) Rank: 0.0
+departments			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (5) Rank: 0.0
+depend			1 <TEXT>  (1) Rank: 0.0
+describe			2 <TEXT>  (1) Rank: 0.0
+descriptions			2 <TEXT>  (1) Rank: 0.0
+digital			0 <TEXT>  (1) Rank: 0.0
+direct			0 <TEXT>  (1) Rank: 0.0
+directions			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+directories			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+disclaims			2 <TEXT>  (2) Rank: 0.0
+discoveries			0 <TEXT>  (1) Rank: 0.0
+discretion			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+disruptions			2 <TEXT>  (1) Rank: 0.0
+document			1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+documentation			1 <TEXT>  (1) Rank: 0.0
+drive			0 <TEXT>  (1) Rank: 0.0
+education			0 <TEXT>  (3) Rank: 0.0, 1 <TEXT>  (3) Rank: 0.0, 2 <TEXT>  (3) Rank: 0.0
+effect			2 <TEXT>  (1) Rank: 0.0
+effect ’			0 <TEXT>  (1) Rank: 0.0
+effort			2 <TEXT>  (1) Rank: 0.0
+empowers			0 <TEXT>  (1) Rank: 0.0
+engagement			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+engineering			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (6) Rank: 0.0
+enhancing			0 <TEXT>  (1) Rank: 0.0
+enrol			2 <TEXT>  (1) Rank: 0.0
+enrolled			2 <TEXT>  (1) Rank: 0.0
+enrolment			2 <TEXT>  (1) Rank: 0.0
+ensure			2 <TEXT>  (2) Rank: 0.0
+ensuring			2 <TEXT>  (1) Rank: 0.0
+entire			2 <TEXT>  (1) Rank: 0.0
+entrepreneurs			0 <TEXT>  (1) Rank: 0.0
+equivalent			2 <TEXT>  (1) Rank: 0.0
+errors			2 <TEXT>  (1) Rank: 0.0
+events			0 <TEXT>  (7) Rank: 0.0, 1 <TEXT>  (7) Rank: 0.0, 2 <TEXT>  (8) Rank: 0.0
+every			2 <TEXT>  (1) Rank: 0.0
+except			2 <TEXT>  (1) Rank: 0.0
+exchange			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+exigency			2 <TEXT>  (1) Rank: 0.0
+expanded			0 <TEXT>  (1) Rank: 0.0
+experiential			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+expertise			0 <TEXT>  (2) Rank: 0.0
+explore			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+facebook			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+facts			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+faculties			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (5) Rank: 0.0
+faculty			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (5) Rank: 0.0
+failure			2 <TEXT>  (1) Rank: 0.0
+fall			1 <TEXT>  (1) Rank: 0.0
+familiarizing			2 <TEXT>  (1) Rank: 0.0
+fast			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+february			2 <TEXT>  (1) Rank: 0.0
+federal			0 <TEXT>  (2) Rank: 0.0
+feedback			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+fees			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+fellows			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0
+fields			0 <TEXT>  (1) Rank: 0.0
+files			1 <TEXT>  (1) Rank: 0.0
+financial			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+find			0 <TEXT>  (1) Rank: 0.0
+fine			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+fire			2 <TEXT>  (1) Rank: 0.0
+fitness			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+flickr			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+flood			2 <TEXT>  (1) Rank: 0.0
+food			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+force			2 <TEXT>  (2) Rank: 0.0
+fr			0 <TEXT>  (1) Rank: 0.0
+friends			0 <TEXT>  (3) Rank: 0.0, 1 <TEXT>  (3) Rank: 0.0, 2 <TEXT>  (3) Rank: 0.0
+funding			0 <TEXT>  (3) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+future			0 <TEXT>  (7) Rank: 0.0, 1 <TEXT>  (3) Rank: 0.0, 2 <TEXT>  (3) Rank: 0.0
+general			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+generation			0 <TEXT>  (2) Rank: 0.0
+george			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+get			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+gets			0 <TEXT>  (1) Rank: 0.0
+gina			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+global			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+governance			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+grad			0 <TEXT>  (1) Rank: 0.0
+graduate			0 <TEXT>  (11) Rank: 0.0, 1 <TEXT>  (17) Rank: 0.0, 2 <TEXT>  (13) Rank: 0.0
+graduation			2 <TEXT>  (1) Rank: 0.0
+groove			0 <TEXT>  (2) Rank: 0.0
+h3g			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+h4b			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+harmony			0 <TEXT>  (2) Rank: 0.0
+health			0 <TEXT>  (1) Rank: 0.0
+helping			0 <TEXT>  (1) Rank: 0.0
+highway			0 <TEXT>  (1) Rank: 0.0
+history			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+home			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+hopes			0 <TEXT>  (1) Rank: 0.0
+housing			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+however			1 <TEXT>  (1) Rank: 0.0
+hub			0 <TEXT>  (5) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (5) Rank: 0.0
+hubs			0 <TEXT>  (1) Rank: 0.0
+humanities			0 <TEXT>  (2) Rank: 0.0
+impact			0 <TEXT>  (1) Rank: 0.0
+important			0 <TEXT>  (5) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+includes			1 <TEXT>  (1) Rank: 0.0
+including			2 <TEXT>  (2) Rank: 0.0
+incurred			2 <TEXT>  (1) Rank: 0.0
+indicated			1 <TEXT>  (1) Rank: 0.0
+indigenous			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+industry			0 <TEXT>  (1) Rank: 0.0
+information			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (5) Rank: 0.0
+innovation			0 <TEXT>  (2) Rank: 0.0
+instagram			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+institutes			0 <TEXT>  (1) Rank: 0.0
+integrity			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+intended			2 <TEXT>  (1) Rank: 0.0
+international			0 <TEXT>  (6) Rank: 0.0, 1 <TEXT>  (9) Rank: 0.0, 2 <TEXT>  (6) Rank: 0.0
+interruptions			2 <TEXT>  (1) Rank: 0.0
+involved			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+items			1 <TEXT>  (1) Rank: 0.0
+job			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+jobs			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+john			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+knowledge			0 <TEXT>  (1) Rank: 0.0
+landscapes			0 <TEXT>  (1) Rank: 0.0
+language			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+latest			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+learn			0 <TEXT>  (1) Rank: 0.0
+learning			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+least			1 <TEXT>  (1) Rank: 0.0
+liability			2 <TEXT>  (2) Rank: 0.0
+library			0 <TEXT>  (3) Rank: 0.0, 1 <TEXT>  (3) Rank: 0.0, 2 <TEXT>  (3) Rank: 0.0
+life			0 <TEXT>  (3) Rank: 0.0, 1 <TEXT>  (3) Rank: 0.0, 2 <TEXT>  (3) Rank: 0.0
+limit			2 <TEXT>  (1) Rank: 0.0
+link			2 <TEXT>  (1) Rank: 0.0
+linkedin			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+links			0 <TEXT>  (9) Rank: 0.0, 1 <TEXT>  (9) Rank: 0.0, 2 <TEXT>  (10) Rank: 0.0
+listed			2 <TEXT>  (1) Rank: 0.0
+lock-outs			2 <TEXT>  (1) Rank: 0.0
+looks			0 <TEXT>  (2) Rank: 0.0
+loss			2 <TEXT>  (1) Rank: 0.0
+loyola			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+made			2 <TEXT>  (1) Rank: 0.0
+maisonneuve			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+majeure			2 <TEXT>  (1) Rank: 0.0
+make			0 <TEXT>  (2) Rank: 0.0
+makes			0 <TEXT>  (1) Rank: 0.0
+mammals			0 <TEXT>  (1) Rank: 0.0
+map			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+maps			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+march			1 <TEXT>  (1) Rank: 0.0
+material			2 <TEXT>  (1) Rank: 0.0
+matter?			0 <TEXT>  (1) Rank: 0.0
+may			2 <TEXT>  (1) Rank: 0.0
+media			0 <TEXT>  (7) Rank: 0.0, 1 <TEXT>  (7) Rank: 0.0, 2 <TEXT>  (7) Rank: 0.0
+medium-sized			0 <TEXT>  (1) Rank: 0.0
+members			0 <TEXT>  (1) Rank: 0.0
+met			2 <TEXT>  (2) Rank: 0.0
+modify			1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+molson			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+months			1 <TEXT>  (1) Rank: 0.0
+montreal			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+moreover			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+move			0 <TEXT>  (1) Rank: 0.0
+moving			0 <TEXT>  (1) Rank: 0.0
+music			0 <TEXT>  (1) Rank: 0.0
+must			1 <TEXT>  (2) Rank: 0.0
+myconcordia			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+new			0 <TEXT>  (7) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (5) Rank: 0.0
+news			0 <TEXT>  (7) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (5) Rank: 0.0
+next			0 <TEXT>  (2) Rank: 0.0
+next-generation			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+non-compliance			2 <TEXT>  (1) Rank: 0.0
+note			2 <TEXT>  (2) Rank: 0.0
+november			0 <TEXT>  (3) Rank: 0.0
+number			2 <TEXT>  (1) Rank: 0.0
+numbers			0 <TEXT>  (2) Rank: 0.0
+offered			2 <TEXT>  (3) Rank: 0.0
+office			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+offices			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+official			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+online			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (3) Rank: 0.0
+open			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+operations			2 <TEXT>  (2) Rank: 0.0
+opportunities			0 <TEXT>  (5) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (5) Rank: 0.0
+orientation			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+overview			1 <TEXT>  (1) Rank: 0.0
+page			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+parents			0 <TEXT>  (3) Rank: 0.0, 1 <TEXT>  (3) Rank: 0.0, 2 <TEXT>  (3) Rank: 0.0
+partnerships			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+party			2 <TEXT>  (1) Rank: 0.0
+pause			0 <TEXT>  (1) Rank: 0.0
+pdf			2 <TEXT>  (2) Rank: 0.0
+people			0 <TEXT>  (1) Rank: 0.0
+pertain			2 <TEXT>  (1) Rank: 0.0
+pipelines			0 <TEXT>  (1) Rank: 0.0
+plan			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+play			0 <TEXT>  (1) Rank: 0.0
+please			2 <TEXT>  (2) Rank: 0.0
+pleasurable			0 <TEXT>  (1) Rank: 0.0
+policies			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+possible			2 <TEXT>  (1) Rank: 0.0
+post-doctoral			0 <TEXT>  (2) Rank: 0.0
+postdocs			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+postdoctoral			1 <TEXT>  (1) Rank: 0.0
+posted			2 <TEXT>  (1) Rank: 0.0
+posting			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+previous			2 <TEXT>  (1) Rank: 0.0
+prior			2 <TEXT>  (1) Rank: 0.0
+privacy			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+procedures			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+professional			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+program			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+programs			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (6) Rank: 0.0, 2 <TEXT>  (9) Rank: 0.0
+property			2 <TEXT>  (1) Rank: 0.0
+published			1 <TEXT>  (1) Rank: 0.0
+quartier			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+quebec			0 <TEXT>  (5) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+quick			0 <TEXT>  (9) Rank: 0.0, 1 <TEXT>  (9) Rank: 0.0, 2 <TEXT>  (10) Rank: 0.0
+range			0 <TEXT>  (1) Rank: 0.0
+readers			2 <TEXT>  (1) Rank: 0.0
+reason			2 <TEXT>  (1) Rank: 0.0
+reasonable			2 <TEXT>  (1) Rank: 0.0
+recent			2 <TEXT>  (1) Rank: 0.0
+recreation			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+recruitment			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+references			2 <TEXT>  (1) Rank: 0.0
+registered			2 <TEXT>  (2) Rank: 0.0
+registrar			2 <TEXT>  (1) Rank: 0.0
+registration			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (6) Rank: 0.0
+regulations			1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (6) Rank: 0.0
+related			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+relations			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+required			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+requirements			2 <TEXT>  (4) Rank: 0.0
+research			0 <TEXT>  (25) Rank: 0.0, 1 <TEXT>  (8) Rank: 0.0, 2 <TEXT>  (8) Rank: 0.0
+Research			0 <TITLE>  (1) Rank: 0.0
+researcher			0 <TEXT>  (1) Rank: 0.0
+researchers			0 <TEXT>  (3) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+reserves			1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+residence			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+resources			0 <TEXT>  (10) Rank: 0.0, 1 <TEXT>  (9) Rank: 0.0, 2 <TEXT>  (9) Rank: 0.0
+responsibility			2 <TEXT>  (2) Rank: 0.0
+responsible			2 <TEXT>  (2) Rank: 0.0
+result			2 <TEXT>  (2) Rank: 0.0
+rhythm			0 <TEXT>  (2) Rank: 0.0
+right			1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+riots			2 <TEXT>  (1) Rank: 0.0
+roadkill			0 <TEXT>  (2) Rank: 0.0
+rules			2 <TEXT>  (2) Rank: 0.0
+safer			0 <TEXT>  (1) Rank: 0.0
+saguenay			0 <TEXT>  (1) Rank: 0.0
+scale			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+schedule			2 <TEXT>  (1) Rank: 0.0
+schedules			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+scholars			0 <TEXT>  (1) Rank: 0.0
+school			0 <TEXT>  (12) Rank: 0.0, 1 <TEXT>  (17) Rank: 0.0, 2 <TEXT>  (13) Rank: 0.0
+schools			0 <TEXT>  (8) Rank: 0.0, 1 <TEXT>  (8) Rank: 0.0, 2 <TEXT>  (8) Rank: 0.0
+science			0 <TEXT>  (8) Rank: 0.0, 1 <TEXT>  (10) Rank: 0.0, 2 <TEXT>  (8) Rank: 0.0
+sciences			0 <TEXT>  (2) Rank: 0.0
+search			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+sections			2 <TEXT>  (1) Rank: 0.0
+sector			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+security			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+see			0 <TEXT>  (5) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+seek			2 <TEXT>  (1) Rank: 0.0
+senate			1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+service			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+services			0 <TEXT>  (13) Rank: 0.0, 1 <TEXT>  (14) Rank: 0.0, 2 <TEXT>  (14) Rank: 0.0
+set			2 <TEXT>  (1) Rank: 0.0
+sgw			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+share			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+sherbrooke			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+shows			0 <TEXT>  (2) Rank: 0.0
+shuttle			0 <TEXT>  (5) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (5) Rank: 0.0
+sir			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+six			1 <TEXT>  (1) Rank: 0.0
+skills			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+small			0 <TEXT>  (1) Rank: 0.0
+social			0 <TEXT>  (3) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+societal			0 <TEXT>  (1) Rank: 0.0
+solely			2 <TEXT>  (1) Rank: 0.0
+sought			2 <TEXT>  (1) Rank: 0.0
+specific			2 <TEXT>  (2) Rank: 0.0
+speech			0 <TEXT>  (1) Rank: 0.0
+sports			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+spotlights			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+sshrc			0 <TEXT>  (1) Rank: 0.0
+staff			0 <TEXT>  (3) Rank: 0.0, 1 <TEXT>  (3) Rank: 0.0, 2 <TEXT>  (3) Rank: 0.0
+stores			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (4) Rank: 0.0
+storytellers:			0 <TEXT>  (1) Rank: 0.0
+strategic			0 <TEXT>  (3) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+street			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+streets			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+strikes			2 <TEXT>  (1) Rank: 0.0
+structure			2 <TEXT>  (1) Rank: 0.0
+student			0 <TEXT>  (12) Rank: 0.0, 1 <TEXT>  (13) Rank: 0.0, 2 <TEXT>  (15) Rank: 0.0
+students			0 <TEXT>  (10) Rank: 0.0, 1 <TEXT>  (11) Rank: 0.0, 2 <TEXT>  (14) Rank: 0.0
+student’s			2 <TEXT>  (1) Rank: 0.0
+studies			0 <TEXT>  (4) Rank: 0.0, 1 <TEXT>  (7) Rank: 0.0, 2 <TEXT>  (5) Rank: 0.0
+study			0 <TEXT>  (8) Rank: 0.0, 1 <TEXT>  (5) Rank: 0.0, 2 <TEXT>  (5) Rank: 0.0
+subject			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+submitted			2 <TEXT>  (1) Rank: 0.0
+substantial			2 <TEXT>  (1) Rank: 0.0
+success			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+suffered			2 <TEXT>  (1) Rank: 0.0
+summer			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+support			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+sustainability			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+synthetic			0 <TEXT>  (1) Rank: 0.0
+systems			2 <TEXT>  (1) Rank: 0.0
+tackle			0 <TEXT>  (1) Rank: 0.0
+tackling			0 <TEXT>  (1) Rank: 0.0
+teaching			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+technology			0 <TEXT>  (1) Rank: 0.0
+tells			0 <TEXT>  (1) Rank: 0.0
+term			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+termination			2 <TEXT>  (1) Rank: 0.0
+terms			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+test			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+thesis			1 <TEXT>  (1) Rank: 0.0
+the application			1 <TEXT>  (1) Rank: 0.0
+the program			1 <TEXT>  (1) Rank: 0.0
+thousands			0 <TEXT>  (1) Rank: 0.0
+time			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+timetable			2 <TEXT>  (1) Rank: 0.0
+top			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+topics			0 <TEXT>  (1) Rank: 0.0
+tours			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+to apply			0 <TEXT>  (1) Rank: 0.0
+traffic			0 <TEXT>  (1) Rank: 0.0
+trainees			0 <TEXT>  (1) Rank: 0.0
+transdisciplinary			0 <TEXT>  (1) Rank: 0.0
+tuition			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+twitter			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+undergraduate			0 <TEXT>  (6) Rank: 0.0, 1 <TEXT>  (6) Rank: 0.0, 2 <TEXT>  (20) Rank: 0.0
+Undergraduate Calendar			2 <TITLE>  (1) Rank: 0.0
+undergraduates			0 <TEXT>  (1) Rank: 0.0
+understand			2 <TEXT>  (1) Rank: 0.0
+units			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (3) Rank: 0.0
+university			0 <TEXT>  (11) Rank: 0.0, 1 <TEXT>  (15) Rank: 0.0, 2 <TEXT>  (21) Rank: 0.0
+upon			1 <TEXT>  (1) Rank: 0.0
+urban			0 <TEXT>  (1) Rank: 0.0
+us			0 <TEXT>  (3) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+use			0 <TEXT>  (1) Rank: 0.0
+using			2 <TEXT>  (1) Rank: 0.0
+vary			1 <TEXT>  (1) Rank: 0.0
+verification			1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+version			2 <TEXT>  (3) Rank: 0.0
+view			2 <TEXT>  (1) Rank: 0.0
+visit			1 <TEXT>  (1) Rank: 0.0
+visiting			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+visitors			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+war			2 <TEXT>  (1) Rank: 0.0
+ways			0 <TEXT>  (2) Rank: 0.0
+webmail			0 <TEXT>  (3) Rank: 0.0, 1 <TEXT>  (3) Rank: 0.0, 2 <TEXT>  (3) Rank: 0.0
+website			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+week			0 <TEXT>  (1) Rank: 0.0
+well			2 <TEXT>  (1) Rank: 0.0
+we’re			0 <TEXT>  (2) Rank: 0.0
+williams			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (2) Rank: 0.0, 2 <TEXT>  (2) Rank: 0.0
+winter			2 <TEXT>  (1) Rank: 0.0
+working			0 <TEXT>  (2) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+world			0 <TEXT>  (1) Rank: 0.0
+year			2 <TEXT>  (2) Rank: 0.0
+youtube			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (1) Rank: 0.0, 2 <TEXT>  (1) Rank: 0.0
+ / 			0 <TEXT>  (1) Rank: 0.0, 1 <TEXT>  (4) Rank: 0.0, 2 <TEXT>  (3) Rank: 0.0
+‘netflix			0 <TEXT>  (1) Rank: 0.0
+“archived			2 <TEXT>  (1) Rank: 0.0

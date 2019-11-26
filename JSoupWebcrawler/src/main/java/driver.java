@@ -40,8 +40,7 @@ public class driver {
 		System.out.println("\nSPIDER IS CRAWLING THE WEB");
 		spider.crawl();
 		htmlTokens = spider.getTokens();
-		System.out.println("\nWEB CRAWLER SCANNED " + htmlTokens.size() );
-		
+		System.out.println("\nWEB CRAWLER SCANNED " + htmlTokens.size() );	
 		
 		//COMPRESS TOKENS
 		System.out.println("\nCOMPRESSING HTML TEXTS");
@@ -52,19 +51,26 @@ public class driver {
 		}//close for i 
 		
 		//DISPLAY HTML TOKENS
-		System.out.println("\nDISPLAYING HTML TOKENS");
-		for (int i = 0 ; i < htmlTokens.size() ; i++ ){
-			htmlTokens.get(i).print();
-		}//close for i 		
+//		System.out.println("\nDISPLAYING HTML TOKENS");
+//		for (int i = 0 ; i < htmlTokens.size() ; i++ ){
+//			htmlTokens.get(i).print();
+//		}//close for i 		
 		
 		//GET AVERAGE DOCUMENT LENGTH
 		if (htmlTokens.size() > 0)
 			avdl = tokenCount / htmlTokens.size();
 		else
 			System.out.println("\nAVDL NOT CALCULATED, NO HTML TOKENS");
-		System.out.println("\nWEB CRAWLER SCANNED " + htmlTokens.size() + "\nTHE AVERAGE DOCUMENT LENGTH IS " + avdl);
+		System.out.println("\nWEB CRAWLER SCANNED " + htmlTokens.size() +
+				"\nTHE TOTAL NUMBER OF PARSED & COMPRESSED TERMS IS " + tokenCount +
+				"\nTHE AVERAGE DOCUMENT LENGTH IS " + avdl);
 		
 		//INDEX TOKENS
+		System.out.println("\nTOKENS ARE NOW BEING INDEXED TO CREATE A BM25 RANKED DICTIONARY");
+		bm25Indexer.constructIndex(htmlTokens, dictionary, avdl);
+		
+		//WRITE TO DISK
+		diskWriter.write(dictionary);
 		
 		//RANK TOKENS
 		

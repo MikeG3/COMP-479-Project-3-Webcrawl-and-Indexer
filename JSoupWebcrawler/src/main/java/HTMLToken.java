@@ -27,7 +27,9 @@ public class HTMLToken {
 	public String getTitle() { return title; }
 	public void setTitle(String title) { this.title = title; }	
 	public void setParsedText(ArrayList<String> in) { this.parsedText = in; }	
-	public ArrayList<String> getParsedText() { return this.parsedText; }	
+	public ArrayList<String> getParsedText() { return this.parsedText; }
+	public int textSize(){ return this.parsedText.size(); }
+	public String getText(int i) {return this.parsedText.get(i); }
 	
 	//DISPLAY AND PRINT
 	public String toString(){
@@ -47,5 +49,17 @@ public class HTMLToken {
 			if (parsedText.get(i)==""||parsedText.get(i)==" "||parsedText.get(i)==null||parsedText.get(i)=="\t"||parsedText.get(i)=="\r"||parsedText.get(i)=="\f"||parsedText.get(i)=="\n")
 				parsedText.remove(parsedText.get(i));
 	}//close function remove white space
+	
+	public void parseTitle(){
+		String[] parsedTitle;
+		ArrayList<String> out = new ArrayList<String>();
+		//SPLIT TEXT
+		parsedTitle = this.title.split(" ");
+		//COMPRESS TEXT
+		CompressorLossy compress = new CompressorLossy();
+		for (int i = 0 ; i < parsedTitle.length ; i++ ){
+			out.add( compress.lossyCompression(parsedTitle[i]) );
+		}//close for i
+	}//close function parse title
 	
 }//close class html token
