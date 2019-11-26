@@ -48,7 +48,7 @@ public class BM25Dictionary {
 
 	//SORT DICTIONARY
 	public void sort(){
-		System.out.println("Sorting Dictionary");
+		System.out.println("Sorting Dictionary Alphabetically");
 		if ( terms.size() == 0 )
 			System.out.println("\tERROR\tDICTIONARY IS EMPTY");
 		else {
@@ -79,7 +79,7 @@ public class BM25Dictionary {
 	}//close function sort
 	//SORT POSTINGS
 	public void sortPostings(){
-		System.out.println("\nSORTING POSTINGS\n");
+		//System.out.println("\nSORTING POSTINGS\n");
 		for (int i = 0 ; i < terms.size(); i++ ){
 			terms.get(i).sortPostings();
 		}//close for i each term

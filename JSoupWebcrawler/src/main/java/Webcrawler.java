@@ -10,7 +10,7 @@ import java.util.HashSet;
 public class Webcrawler {
 
 	//ATTRIBUTES
-	private final int MAXIMUM = 3;		//1500 to cover all Concordia domain
+	private final int MAXIMUM = 100;		//1500 to cover all Concordia domain
 	private String startLink = "https://www.concordia.ca/research.html";
 	private HashSet<String> htmlLinks;
 	private int counter = 0;

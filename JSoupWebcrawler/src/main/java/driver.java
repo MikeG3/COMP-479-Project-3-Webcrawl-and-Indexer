@@ -40,7 +40,7 @@ public class driver {
 		System.out.println("\nSPIDER IS CRAWLING THE WEB");
 		spider.crawl();
 		htmlTokens = spider.getTokens();
-		System.out.println("\nWEB CRAWLER SCANNED " + htmlTokens.size() );	
+		System.out.println("\nWEB CRAWLER SCANNED " + htmlTokens.size() + " WEBPAGES");	
 		
 		//COMPRESS TOKENS
 		System.out.println("\nCOMPRESSING HTML TEXTS");
@@ -66,13 +66,17 @@ public class driver {
 				"\nTHE AVERAGE DOCUMENT LENGTH IS " + avdl);
 		
 		//INDEX TOKENS
-		System.out.println("\nTOKENS ARE NOW BEING INDEXED TO CREATE A BM25 RANKED DICTIONARY");
+		System.out.println("\nTOKENS ARE NOW BEING INDEXED TO CREATE A DICTIONARY");
 		bm25Indexer.constructIndex(htmlTokens, dictionary, avdl);
+		
+		//RANK ALL TERMS
+		System.out.println("\nRANKING ALL TERMS IN THE DICTIONARY WITH BM25 VALUES");
+		dictionary.calculateBM25();
 		
 		//WRITE TO DISK
 		diskWriter.write(dictionary);
 		
-		//RANK TOKENS
+		//QUERY SEARCH WORDS
 		
 		//CLOSING MESSAGE
 		System.out.println("\n\nALGORITHM IS COMPLETE! :)");

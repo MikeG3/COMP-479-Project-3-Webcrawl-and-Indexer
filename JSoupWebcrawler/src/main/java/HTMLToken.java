@@ -8,6 +8,7 @@ public class HTMLToken {
 	private String url;
 	private String text;
 	private String title;
+	private ArrayList<String> parsedTitle = new ArrayList<String>();
 	private ArrayList<String> parsedText = new ArrayList<String>();
 	
 	//CONSTRUCTOR
@@ -30,6 +31,8 @@ public class HTMLToken {
 	public ArrayList<String> getParsedText() { return this.parsedText; }
 	public int textSize(){ return this.parsedText.size(); }
 	public String getText(int i) {return this.parsedText.get(i); }
+	public ArrayList<String> getParsedTitle() {return this.parsedTitle; }
+	public String getParsedTitle(int i) {return this.parsedTitle.get(i); }
 	
 	//DISPLAY AND PRINT
 	public String toString(){
@@ -52,13 +55,12 @@ public class HTMLToken {
 	
 	public void parseTitle(){
 		String[] parsedTitle;
-		ArrayList<String> out = new ArrayList<String>();
 		//SPLIT TEXT
 		parsedTitle = this.title.split(" ");
 		//COMPRESS TEXT
 		CompressorLossy compress = new CompressorLossy();
 		for (int i = 0 ; i < parsedTitle.length ; i++ ){
-			out.add( compress.lossyCompression(parsedTitle[i]) );
+			this.parsedTitle.add( compress.lossyCompression(parsedTitle[i]) );
 		}//close for i
 	}//close function parse title
 	

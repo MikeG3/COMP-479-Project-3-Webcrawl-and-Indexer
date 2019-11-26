@@ -69,6 +69,9 @@ public class BM25Posting {
 		calculateIDF();
 		//BM25 =  IDF * TF * (K + 1) /(K * (1 - B + B*DL/AVDL) +  TF) 
 		bm25Rank = idf * frequency * (K+1.0) / (K* (1-B+(B*(double) docLength/(double) avdl)) + frequency);
+		//ADD VALUE IF IN TITLE
+		if (this.tag.equals("TEXT"))
+			bm25Rank += 10;
 	}//close function calculate idf
 	public void calculateIDF(){
 		//IDF = LOG( N / DF )
@@ -81,6 +84,6 @@ public class BM25Posting {
 	public double getRank(){ return this.bm25Rank; }
 
 	//DISPLAY
-	public String toString(){	return ( docID + " <" + tag + "> " + " (" + frequency + ")" + " Rank: " + bm25Rank); }//close function to string
+	public String toString(){	return ( "DocID: " + docID + " <" + tag + "> " + "Freq=(" + frequency + ")" + " Rank: " + bm25Rank); }//close function to string
 
 }//CLOSE CLASS BM25 Posting
