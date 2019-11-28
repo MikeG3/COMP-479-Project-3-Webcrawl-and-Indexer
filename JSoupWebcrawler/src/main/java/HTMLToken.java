@@ -1,3 +1,18 @@
+/*
+
+ MICHAEL GARNER
+ 26338739
+ COMP 479 
+ Project
+
+ */
+
+/*
+
+	CAPTURES THE DATA FROM AN HTML PAGE
+
+ */
+
 import java.util.ArrayList;
 
 public class HTMLToken {

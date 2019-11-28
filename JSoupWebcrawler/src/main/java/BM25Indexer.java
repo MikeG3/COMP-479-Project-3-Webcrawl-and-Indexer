@@ -35,9 +35,7 @@ public class BM25Indexer {
 	 */
 	public void constructIndex(ArrayList<HTMLToken> htmlTokens, BM25Dictionary dictionary, double avdl){
 		//VARIABLES
-		BM25Token token;
 		String term;
-		String tag;
 		int docID;
 		int corpusSize = 0;
 		dictionary.setAVDL(avdl);
@@ -47,8 +45,6 @@ public class BM25Indexer {
 			htmlTokens.get(i).parseTitle();
 			for (int j = 0 ; j < htmlTokens.get(i).getParsedTitle().size() ; j++ )
 				dictionary.searchAndAdd( htmlTokens.get(i).getParsedTitle(j), htmlTokens.get(i).getDocID(), "TITLE", htmlTokens.get(i).textSize() );
-//			if ( i % 100 == 0 )
-//				System.out.println("CONSTRUCTED RANKED INDEXES FOR THE FIRST " + i + " ARTICLES");
 			//GET ALL TERMS IN THE HTML TEXT	
 			for (int j = 0 ; j < htmlTokens.get(i).textSize() ; j++ ){
 				corpusSize++;

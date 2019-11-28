@@ -5,7 +5,20 @@ import java.util.ArrayList;
 
 
  */
+/*
 
+MICHAEL GARNER
+26338739
+COMP 479 
+Project
+
+*/
+
+/*
+
+	PARSES HTML TEXT AND PROCESSES/CLEANS/FILTERS AND COMPRESSES DATA
+
+*/
 public class HTMLPreprocessor {
 
 	//ATTRIBUTES

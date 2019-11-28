@@ -3,12 +3,21 @@
  MICHAEL GARNER
  26338739
  COMP 479 
- Project 2
+ Project
 
  */
 
 /*
-	LIKE SPIMI DICTIONARY, BUT USES BM25POSTING INSYEAD OF SIMPLY THE DOC-ID
+	LIST OF TERMS IN A CORPUS WITH A REFERENCE TO ITS DOCUMENT ID
+	
+	ALSO CONTAINS 
+		A LIST OF POSTINGS
+			FREQUENCY
+			DOCUMENT LENGTH
+			AVERAGE DOCUMENT LENGTH
+			TF-IDF SCORES
+			TAGS
+			BM25 SCORE + TAG WEIGHTING
  */
 
 import java.util.ArrayList;
@@ -79,7 +88,6 @@ public class BM25Dictionary {
 	}//close function sort
 	//SORT POSTINGS
 	public void sortPostings(){
-		//System.out.println("\nSORTING POSTINGS\n");
 		for (int i = 0 ; i < terms.size(); i++ ){
 			terms.get(i).sortPostings();
 		}//close for i each term
@@ -110,7 +118,6 @@ public class BM25Dictionary {
 
 	//RANK POSTINGS
 	public void calculateBM25(){
-		System.out.println("\nRANKING THE DICTIONARY ENTRIES USING BM25");
 		for (int i = 0 ; i < terms.size() ; i++ ){
 			terms.get(i).calculateBM25(this.avdl, numOfDocs);
 		}//close for i

@@ -15,7 +15,7 @@
  */
 
 /*
- 	PROJECT 2
+ 	PROJECT 
  	BM25 RANKED SEARCH RETRIEVAL
 
  	RANKING OF DOCUMENT = IDF * ....
@@ -70,7 +70,7 @@ public class BM25Posting {
 		//BM25 =  IDF * TF * (K + 1) /(K * (1 - B + B*DL/AVDL) +  TF) 
 		bm25Rank = idf * frequency * (K+1.0) / (K* (1-B+(B*(double) docLength/(double) avdl)) + frequency);
 		//ADD VALUE IF IN TITLE
-		if (this.tag.equals("TEXT"))
+		if (this.tag.equals("TITLE"))
 			bm25Rank += 10;
 	}//close function calculate idf
 	public void calculateIDF(){

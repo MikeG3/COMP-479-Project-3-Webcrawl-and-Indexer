@@ -14,6 +14,18 @@
 
  */
 
+/*
+
+1. starting from page https://www.concordia.ca/research.html, crawl for links (you may use crawling tools
+such as Websphinx but you may also find other tools, such as NYUcrawl). To extract the text from web pages,
+consider Boilerpipe. Describe and attribute any tools used. Make sure you obey the standard for robot exclusion.
+Your crawler MUST accept as part of its input an upper bound on the total number of files to be downloaded.
+In developing, testing, and debugging, this number should be kept as SMALL as possible. Develop your own
+closed test set of HTML files for testing and debugging. The final index (ConcordiaAI) should cover as many
+documents as possible. (5 pts, Attrib 5)
+
+ */
+
 import java.util.ArrayList;
 
 
@@ -32,13 +44,14 @@ public class driver {
 		Webcrawler spider = new Webcrawler();
 		ArrayList<HTMLToken> htmlTokens = new ArrayList<HTMLToken>();
 		HTMLPreprocessor htmlProcessor = new HTMLPreprocessor();
+		URLTable urlTable = new URLTable();
 		
 		//WELCOME MESSAGE
 		System.out.println("COMP 479 PROJECT 3 WEBCRAWLING + RANKED BM25 INDEX\nMICHAEL GARNER 26338739\n");			
 		
 		//WEBCRAWLING
 		System.out.println("\nSPIDER IS CRAWLING THE WEB");
-		spider.crawl();
+		spider.crawl(urlTable);
 		htmlTokens = spider.getTokens();
 		System.out.println("\nWEB CRAWLER SCANNED " + htmlTokens.size() + " WEBPAGES");	
 		
@@ -73,10 +86,14 @@ public class driver {
 		System.out.println("\nRANKING ALL TERMS IN THE DICTIONARY WITH BM25 VALUES");
 		dictionary.calculateBM25();
 		
+		//QUERY SEARCH WORDS
+		for (int i = 0 ; i < words.getAQueries().size() ; i++ )
+			query.printBM25Search(words.getAWords(i), dictionary);
+		
 		//WRITE TO DISK
 		diskWriter.write(dictionary);
-		
-		//QUERY SEARCH WORDS
+		diskWriter.write(urlTable);
+		//diskWriter.write(QUERY);
 		
 		//CLOSING MESSAGE
 		System.out.println("\n\nALGORITHM IS COMPLETE! :)");
