@@ -43,36 +43,46 @@ public class QueryWords {
 	//PERMUTATIONS:
 	//ARTIFICIAL INTELIGENCE, AI, A.I.
 	//DEPARTMENT, DEPT, DEPT.
-	public String[] a1 = {"artificial", "intelligence", "department" };		//14 matches
-	public String[] a2 = {"artificial", "intelligence", "dept"  };			//1 match
-	public String[] a3 = {"artificial", "intelligence", "dept."  };			//1 match
-	public String[] a4 = {"ai", "department" };								//1 match
-	public String[] a5 = {"ai", "dept"  };									//1 match
-	public String[] a6 = {"ai", "dept."  };									//1 match
-	public String[] a7 = {"a.i.", "department" };							//1 match
-	public String[] a8 = {"a.i.", "dept"  };								//1 match
-	public String[] a9 = {"a.i.", "dept."  };								//1 match
-
+	public String[] a1 = {"artificial", "intelligence" };					
+	public String[] a2 = {"a.i."};								
+	public String[] a3 = {"ai" };	
+	public String[] a4 = {"artificial", "intelligence", "department" };		//14 matches
+	public String[] a5 = {"artificial", "intelligence", "dept"  };			//1 match
+	public String[] a6 = {"ai", "department" };								//16 match
+	public String[] a7 = {"ai", "dept"  };									//3 match
+	public String[] a8 = {"a.i.", "department" };							//13 match
+	public String[] a9 = {"a.i.", "dept"  };								//0 match
 	//(b) Which researchers are working on AI research?
+	public String[] a10 = {"artificial", "intelligence", "ai" };	
 	//(c) What AI research is being conducted at Concordia?
-	
-	public ArrayList<String[]> aQueries = new ArrayList<String[]>();
+	public String[] b1 = {"artificial", "intelligence", "researcher" };							
+	public String[] b2 = {"artificial", "intelligence", "researchers"   };								
+	public String[] b3 = {"artificial", "intelligence", "research"  };		
+	//X
+	public String[] x = {"artificial", "intelligence", "ai", "a.i", "research", "researcher", "researchers"   };
+	//ALL
+	public ArrayList<String[]> queries = new ArrayList<String[]>();
 	
 	//CONSTRUCTOR
-	public QueryWords(){
-		aQueries.add(a1);
-		aQueries.add(a2);
-		aQueries.add(a3);
-		aQueries.add(a4);
-		aQueries.add(a5);
-		aQueries.add(a6);
-		aQueries.add(a7);
-		aQueries.add(a8);
-		aQueries.add(a9);
+	public QueryWords(){	
+		queries.add(x);
+		queries.add(a1);
+		queries.add(a2);
+		queries.add(a3);
+		queries.add(a4);
+		queries.add(a5);
+		queries.add(a6);
+		queries.add(a7);
+		queries.add(a8);
+		queries.add(a9);
+		queries.add(b1);
+		queries.add(b2);
+		queries.add(b3);
+		queries.add(a10);
 	}//close constructor
 	
 	//SETTERS AND GETTERS
-	public ArrayList<String[]> getAQueries(){ return this.aQueries; }
-	public String[] getAWords(int i){ return this.aQueries.get(i); }
+	public ArrayList<String[]> getQueries(){ return this.queries; }
+	public String[] getAWords(int i){ return this.queries.get(i); }
 	
 }//CLOSE CLASS QUERY WORDS

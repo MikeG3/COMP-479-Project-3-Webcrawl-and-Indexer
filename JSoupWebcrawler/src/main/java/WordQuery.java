@@ -74,7 +74,7 @@ public class WordQuery {
 					}//close if it exists already
 				//ELSE DOCID EXISTS ADD TO THE SCORE TO THAT QUERY RESULT
 				if (!exists){
-					qr = new BM25QueryResult( tokens.get(i).getPosting(j).getDocID(), tokens.get(i).getPosting(j).getRank() );
+					qr = new BM25QueryResult( tokens.get(i).getPosting(j).getDocID(), tokens.get(i).getPosting(j).getRank(), tokens.get(i).getPosting(j).getUrl() );
 					results.add(qr);
 				}//close else does not exist
 			}//close for j for each posting
@@ -265,7 +265,6 @@ public class WordQuery {
 			System.out.println( "\nKEYWORDS NOT FOUND\n" );
 		else {
 			System.out.println( "\n" + results.size() +  " MATCHES AT THE FOLLOWING DOCUMENTS:\n");
-			System.out.println( "ORDERED BY BM25 VALUE:\n");
 			for (int i = 0 ; i < results.size(); i++ )
 				System.out.print( results.get(i).toString() + "\n" );
 		}//close else
@@ -288,5 +287,41 @@ public class WordQuery {
 		}//close else
 		return out;
 	}//close function print bm25Search
+	public String bm25SearchToString(String[] query, BM25Dictionary dictionary, URLTable table){
+		ArrayList<BM25QueryResult> results = bm25Search(query, dictionary);
+		String out = "\nDISPLAYING RESULTS FROM QUERY: \n" + "URL TABLE\n" + table.toString();
+		for (int i = 0 ; i < query.length ; i++){
+			out += ("\"" + query[i] + "\" ");
+			if ( i < query.length-1 )
+				out += (", ");
+		}//close for i
+		if ( results.size() < 1 )
+			out += ( "\nKEYWORDS NOT FOUND\n" );
+		else {
+			out += ( "\n" + results.size() +  " MATCHES AT THE FOLLOWING DOCUMENTS:\n");
+			for (int i = 0 ; i < results.size(); i++ )
+				out += ( i + "\t" + results.get(i).toString() + "\n" );
+		}//close else
+		return out;
+	}//close function print bm25Search
 
+
+	public void printBM25Search(String[] query, BM25Dictionary dictionary, URLTable table){
+		ArrayList<BM25QueryResult> results = bm25Search(query, dictionary);
+		System.out.print("\nDISPLAYING RESULTS FROM QUERY: \n");
+		System.out.print("URL TABLE\n" + table.toString() );
+		for (int i = 0 ; i < query.length ; i++){
+			System.out.print("\"" + query[i] + "\" ");
+			if ( i < query.length-1 )
+				System.out.print(", ");
+		}//close for i
+		if ( results.size() < 1 )
+			System.out.println( "\nKEYWORDS NOT FOUND\n" );
+		else {
+			System.out.println( "\n" + results.size() +  " MATCHES AT THE FOLLOWING DOCUMENTS:\n");
+			for (int i = 0 ; i < results.size(); i++ )
+				System.out.print( results.get(i).toString() + "\n" );
+		}//close else
+	}//close function print bm25Search
+	
 }//close class word query

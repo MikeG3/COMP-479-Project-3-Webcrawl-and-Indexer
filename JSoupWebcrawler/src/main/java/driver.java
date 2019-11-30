@@ -34,17 +34,26 @@ public class driver {
 	public static void main(String[] args){
 
 		//VARIABLES
+		final String AIURL = "https://aitopics.org/search";
 		int tokenCount = 0;
+		int aitokenCount = 0;
+		final int AIMAX = 100;
 		Disk_Writer diskWriter = new Disk_Writer();
 		BM25Dictionary dictionary = new BM25Dictionary();
+		BM25Dictionary aidictionary = new BM25Dictionary();
 		BM25Indexer bm25Indexer = new BM25Indexer();
 		float avdl = 0;
+		float aiavdl = 0;
 		WordQuery query = new WordQuery();
 		QueryWords words = new QueryWords();
 		Webcrawler spider = new Webcrawler();
+		Webcrawler aispider = new Webcrawler();
 		ArrayList<HTMLToken> htmlTokens = new ArrayList<HTMLToken>();
+		ArrayList<HTMLToken> aihtmlTokens = new ArrayList<HTMLToken>();
 		HTMLPreprocessor htmlProcessor = new HTMLPreprocessor();
 		URLTable urlTable = new URLTable();
+		URLTable aiurlTable = new URLTable();
+		boolean x = false;
 		
 		//WELCOME MESSAGE
 		System.out.println("COMP 479 PROJECT 3 WEBCRAWLING + RANKED BM25 INDEX\nMICHAEL GARNER 26338739\n");			
@@ -87,13 +96,62 @@ public class driver {
 		dictionary.calculateBM25();
 		
 		//QUERY SEARCH WORDS
-		for (int i = 0 ; i < words.getAQueries().size() ; i++ )
+		for (int i = 0 ; i < words.getQueries().size() ; i++ )
 			query.printBM25Search(words.getAWords(i), dictionary);
 		
 		//WRITE TO DISK
 		diskWriter.write(dictionary);
 		diskWriter.write(urlTable);
-		//diskWriter.write(QUERY);
+		diskWriter.write(query, words, dictionary);
+		
+		/*******************************************************************************
+		 * 		AI INDEX
+		 */
+		//WEBCRAWLING
+		System.out.println("\nSPIDER IS CRAWLING THE WEB");
+		aispider.crawl(urlTable, AIURL, AIMAX);
+		aihtmlTokens = aispider.getTokens();
+		System.out.println("\nWEB CRAWLER SCANNED " + aihtmlTokens.size() + " WEBPAGES");	
+		
+		//COMPRESS TOKENS
+		System.out.println("\nCOMPRESSING HTML TEXTS");
+		for (int i = 0 ; i < aihtmlTokens.size() ; i++ ){
+			aihtmlTokens.get(i).setParsedText( htmlProcessor.parse(aihtmlTokens.get(i).getText() ));
+			aihtmlTokens.get(i).removeWhiteSpace();
+			aitokenCount += aihtmlTokens.get(i).getParsedText().size();
+		}//close for i 
+		
+		//DISPLAY HTML TOKENS
+//		System.out.println("\nDISPLAYING HTML TOKENS");
+//		for (int i = 0 ; i < aihtmlTokens.size() ; i++ ){
+//			aihtmlTokens.get(i).print();
+//		}//close for i 		
+		
+		//GET AVERAGE DOCUMENT LENGTH
+		if (aihtmlTokens.size() > 0)
+			aiavdl = aitokenCount / aihtmlTokens.size();
+		else
+			System.out.println("\nAVDL NOT CALCULATED, NO HTML TOKENS");
+		System.out.println("\nWEB CRAWLER SCANNED " + htmlTokens.size() +
+				"\nTHE TOTAL NUMBER OF PARSED & COMPRESSED TERMS IS " + tokenCount +
+				"\nTHE AVERAGE DOCUMENT LENGTH IS " + avdl);
+		
+		//INDEX TOKENS
+		System.out.println("\nTOKENS ARE NOW BEING INDEXED TO CREATE A DICTIONARY");
+		bm25Indexer.constructIndex(aihtmlTokens, aidictionary, aiavdl);
+		
+		//RANK ALL TERMS
+		System.out.println("\nRANKING ALL TERMS IN THE DICTIONARY WITH BM25 VALUES");
+		dictionary.calculateBM25();
+		
+		//QUERY SEARCH WORDS
+		for (int i = 0 ; i < words.getQueries().size() ; i++ )
+			query.printBM25Search(words.getAWords(i), aidictionary);
+		
+		//WRITE TO DISK
+		diskWriter.write(aidictionary, x);
+		diskWriter.write(aiurlTable, x);
+		diskWriter.write(query, words, aidictionary, x);
 		
 		//CLOSING MESSAGE
 		System.out.println("\n\nALGORITHM IS COMPLETE! :)");

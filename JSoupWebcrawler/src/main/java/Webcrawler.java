@@ -31,12 +31,18 @@ import java.util.HashSet;
 public class Webcrawler {
 
 	//ATTRIBUTES
-	private final int MAXIMUM = 100;		//1500 to cover all Concordia domain
+	private int  max = 1300;		//1300 to cover all Concordia domain
 	private String startLink = "https://www.concordia.ca/research.html";
 	private HashSet<String> htmlLinks;
 	private int counter = 0;
 	private ArrayList<HTMLToken> htmlTokens = new ArrayList<HTMLToken>();
-
+	//ITERATION 2
+	private ArrayList<String> errorLinks = new ArrayList<String>();
+	private boolean done = false;
+	private String userAgent;
+	private String newUserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36";
+	private final int TIMEOUT = 24000;
+	
 	//CONSTRUCTOR
 	public Webcrawler() {
 		htmlLinks = new HashSet<String>();
@@ -45,11 +51,18 @@ public class Webcrawler {
 	//SETTERS AND GETTERS
 	public ArrayList<HTMLToken> getTokens(){ return this.htmlTokens; }
 
-	//DISPLAY
-
 	//SERVICE METHODS
-	public void crawl(URLTable urlTable) { 
-		System.out.println("\nWEBCRAWLER MAXIMUM PAGES SET TO "+MAXIMUM+"\n");
+	public void crawl(URLTable urlTable, String url, int max) {
+		this.max = max;
+		this.startLink = url;
+		//getUserAgent();
+		System.out.println("\nWEBCRAWLER MAXIMUM PAGES SET TO "+max+"\n");
+		crawl(startLink, urlTable); 
+	}//close crawl method
+	
+	public void crawl(URLTable urlTable) {
+		//getUserAgent();
+		System.out.println("\nWEBCRAWLER MAXIMUM PAGES SET TO "+max+"\n");
 		crawl(startLink, urlTable); 
 	}//close crawl method
 
@@ -58,20 +71,20 @@ public class Webcrawler {
 		HTMLToken token;
 		Elements linksOnPage;
 		String title, text;
-		
+
 		//CRAWL UNVISITED WEBSITES, WHILE LESS THAN THE MAXIMUM SITES HAVE BEEN VISITED
-		if (!htmlLinks.contains(url) && counter < MAXIMUM) {
+		if (!htmlLinks.contains(url) && counter < max) {
 			try {
 				counter++;
 				//Add the URL and print it if it is a new entry
 				if (htmlLinks.add(url)) 
 					System.out.println(counter + "\t" + url);
-				
+
 				//ADD URL TO THE URL TABLE
 				urlTable.addEntry(counter, url);
 
 				//GET THE HTML CODE AND PARSE IT
-				Document document = Jsoup.connect(url).get();
+				Document document = Jsoup.connect(url).userAgent(newUserAgent).referrer("http://www.google.com").timeout(TIMEOUT).followRedirects(true).get();
 				title = document.title();
 				if (document.hasText())
 					text = document.text();
@@ -80,7 +93,7 @@ public class Webcrawler {
 
 				//PREPROCESS
 				//Remove URL and TITLE from the text
-				text = text.replaceFirst(title,  "");
+				text = text.replaceFirst(title,  " ");
 				text = text.replaceFirst("(http://).*(.html)",  "");
 				text = text.replaceFirst("(https://).*(.html)",  "");
 
@@ -100,9 +113,30 @@ public class Webcrawler {
 			} catch (IOException e) {
 				System.err.println("\nERROR IN WEBCRAWLER\nFor '" + url + "': " + e.getMessage());
 				counter--;
+				errorLinks.add(url);
 			}//close catch
 		}//close outer if htmlLinks.contains(URL)
 
+		if (counter == max && !done && (errorLinks.size() > 0))
+			endCrawl();
+
 	}//close method crawl
+
+
+	public void endCrawl(){
+		System.out.println("\nENDING WEBCRAWL\nTHE FOLLOWING SITES WERE NOT ABLE TO BE PARSED");
+		for (int i = 0 ; i < errorLinks.size() ; i++)
+			System.out.println((i+1) + " " + errorLinks.get(i) + "\n");
+		done = true;
+	}//close method end crawl
+	
+	public void getUserAgent(){
+		try{
+			userAgent = Jsoup.connect("https://www.whoishostingthis.com/tools/user-agent/").get().text();
+			System.out.println("\nUSER AGENT:" + userAgent);
+		} catch (IOException e) {
+			System.err.println("\nERROR IN WEBCRAWLER GETTING AGENT STRING" + e.getMessage());
+		}//close catch
+	}//close method get user agent
 
 }//close class web crawler

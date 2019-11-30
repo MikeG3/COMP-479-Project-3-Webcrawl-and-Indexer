@@ -1,0 +1,338 @@
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "ai" , "a.i" , "research" , "researcher" , "researchers" 
+45 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300	Score: 0.0	https://aitopics.org/search
+Document ID: 1331	Score: 0.0	http://www.gnu.org/gnu/gnu.it.html
+Document ID: 1361	Score: 0.0	http://www.gnu.org/philosophy/philosophy.it.html
+Document ID: 1380	Score: 0.0	http://www.gnu.org/licenses/licenses.it.html
+Document ID: 1386	Score: 0.0	http://www.gnu.org/licenses/licenses.sq.html
+Document ID: 1396	Score: 0.0	http://www.gnu.org/graphics/philosophicalgnu.it.html
+Document ID: 1410	Score: 0.0	http://www.gnu.org/education/education.it.html
+Document ID: 1431	Score: 0.0	http://www.gnu.org/software/software.it.html
+Document ID: 1451	Score: 0.0	http://www.gnu.org/doc/doc.it.html
+Document ID: 1467	Score: 0.0	http://www.gnu.org/help/help.it.html
+Document ID: 1488	Score: 0.0	http://www.gnu.org/philosophy/free-doc.it.html
+Document ID: 1494	Score: 0.0	http://www.gnu.org/philosophy/free-doc.ro.html
+Document ID: 1509	Score: 0.0	http://www.gnu.org/philosophy/the-danger-of-ebooks.it.html
+Document ID: 1546	Score: 0.0	http://www.gnu.org/philosophy/free-sw.it.html
+Document ID: 1559	Score: 0.0	http://www.gnu.org/philosophy/free-sw.sq.html
+Document ID: 1578	Score: 0.0	http://www.gnu.org/philosophy/open-source-misses-the-point.it.html
+Document ID: 1585	Score: 0.0	http://www.gnu.org/philosophy/open-source-misses-the-point.ro.html
+Document ID: 1587	Score: 0.0	http://www.gnu.org/philosophy/open-source-misses-the-point.sq.html
+Document ID: 1600	Score: 0.0	http://www.gnu.org/philosophy/free-software-even-more-important.it.html
+Document ID: 1606	Score: 0.0	http://www.gnu.org/philosophy/free-software-even-more-important.sq.html
+Document ID: 1614	Score: 0.0	http://www.gnu.org/proprietary/proprietary.it.html
+Document ID: 1627	Score: 0.0	http://www.gnu.org/proprietary/malware-apple.it.html
+Document ID: 1734	Score: 0.0	https://www.lemonde.fr/guides-d-achat/article/2018/06/26/les-meilleurs-ecouteurs-bluetooth-pour-courir_5321361_5306571.html
+Document ID: 1768	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/black-friday/v-1415201-1415201.html
+Document ID: 1769	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/l-14152.html
+Document ID: 1770	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/black-friday/jouets/l-141520124.html
+Document ID: 1771	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/black-friday/toute-la-selection/l-141520101.html
+Document ID: 1776	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/quel-ordinateur-portable-choisir-f/q-l-10709-3212606.html
+Document ID: 1782	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/v-10709-10709.html
+Document ID: 1791	Score: 0.0	https://www.cdiscount.com/telephonie/m/samsung/v-1448903-1448903.html
+Document ID: 1799	Score: 0.0	https://www.cdiscount.com/telephonie/m/l-14489.html
+Document ID: 1696	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200780/Brussels-explosions-many-dead-in-attacks-on-Zaventem-airport-and-Metro-live-updates.html
+Document ID: 1697	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12204363/Brussels-attacks-The-tough-questions-facing-the-Belgian-authorities-in-the-wake-of-the-bombing.html
+Document ID: 1700	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12204241/Belgian-security-is-so-bad-its-actually-a-threat-to-Britain.html
+Document ID: 1701	Score: 0.0	https://www.telegraph.co.uk/news/newstopics/eureferendum/12203847/When-will-Cameron-realise-he-cant-win-the-EU-referendum-by-scaring-us.html
+Document ID: 1703	Score: 0.0	https://www.telegraph.co.uk/news/uknews/terrorism-in-the-uk/12202855/bexit-brussels-attacks-eu-mi6-security.html
+Document ID: 1704	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12202656/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1706	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12201893/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1707	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200878/Brussels-explosions-everything-we-know-Tuesday-morning.html
+Document ID: 1709	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/france/12197932/Fingerprints-of-Paris-attacks-fugitive-Salah-Abdeslam-found-in-raided-Brussels-flat.html
+Document ID: 1783	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/pc-portables/l-1070992.html
+Document ID: 1787	Score: 0.0	https://www.cdiscount.com/informatique/netbooks-mini-portables/ultraportables/v-1074618-1074618.html
+Document ID: 1789	Score: 0.0	https://www.cdiscount.com/informatique/netbooks-mini-portables/lf-256_520-neuf.html
+Document ID: 1631	Score: 0.0	http://www.telegraph.co.uk/technology/3358134/Apples-Jobs-confirms-iPhone-kill-switch.html
+Document ID: 1705	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12201991/Brussels-attacks-who-are-the-victims.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" 
+13 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300	Score: 0.0	https://aitopics.org/search
+Document ID: 1696	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200780/Brussels-explosions-many-dead-in-attacks-on-Zaventem-airport-and-Metro-live-updates.html
+Document ID: 1697	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12204363/Brussels-attacks-The-tough-questions-facing-the-Belgian-authorities-in-the-wake-of-the-bombing.html
+Document ID: 1700	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12204241/Belgian-security-is-so-bad-its-actually-a-threat-to-Britain.html
+Document ID: 1701	Score: 0.0	https://www.telegraph.co.uk/news/newstopics/eureferendum/12203847/When-will-Cameron-realise-he-cant-win-the-EU-referendum-by-scaring-us.html
+Document ID: 1703	Score: 0.0	https://www.telegraph.co.uk/news/uknews/terrorism-in-the-uk/12202855/bexit-brussels-attacks-eu-mi6-security.html
+Document ID: 1704	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12202656/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1706	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12201893/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1707	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200878/Brussels-explosions-everything-we-know-Tuesday-morning.html
+Document ID: 1709	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/france/12197932/Fingerprints-of-Paris-attacks-fugitive-Salah-Abdeslam-found-in-raided-Brussels-flat.html
+Document ID: 1783	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/pc-portables/l-1070992.html
+Document ID: 1787	Score: 0.0	https://www.cdiscount.com/informatique/netbooks-mini-portables/ultraportables/v-1074618-1074618.html
+Document ID: 1789	Score: 0.0	https://www.cdiscount.com/informatique/netbooks-mini-portables/lf-256_520-neuf.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"a.i." 
+KEYWORDS NOT FOUND
+
+DISPLAYING RESULTS FROM QUERY: 
+"ai" 
+31 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300	Score: 0.0	https://aitopics.org/search
+Document ID: 1331	Score: 0.0	http://www.gnu.org/gnu/gnu.it.html
+Document ID: 1361	Score: 0.0	http://www.gnu.org/philosophy/philosophy.it.html
+Document ID: 1380	Score: 0.0	http://www.gnu.org/licenses/licenses.it.html
+Document ID: 1386	Score: 0.0	http://www.gnu.org/licenses/licenses.sq.html
+Document ID: 1396	Score: 0.0	http://www.gnu.org/graphics/philosophicalgnu.it.html
+Document ID: 1410	Score: 0.0	http://www.gnu.org/education/education.it.html
+Document ID: 1431	Score: 0.0	http://www.gnu.org/software/software.it.html
+Document ID: 1451	Score: 0.0	http://www.gnu.org/doc/doc.it.html
+Document ID: 1467	Score: 0.0	http://www.gnu.org/help/help.it.html
+Document ID: 1488	Score: 0.0	http://www.gnu.org/philosophy/free-doc.it.html
+Document ID: 1494	Score: 0.0	http://www.gnu.org/philosophy/free-doc.ro.html
+Document ID: 1509	Score: 0.0	http://www.gnu.org/philosophy/the-danger-of-ebooks.it.html
+Document ID: 1546	Score: 0.0	http://www.gnu.org/philosophy/free-sw.it.html
+Document ID: 1559	Score: 0.0	http://www.gnu.org/philosophy/free-sw.sq.html
+Document ID: 1578	Score: 0.0	http://www.gnu.org/philosophy/open-source-misses-the-point.it.html
+Document ID: 1585	Score: 0.0	http://www.gnu.org/philosophy/open-source-misses-the-point.ro.html
+Document ID: 1587	Score: 0.0	http://www.gnu.org/philosophy/open-source-misses-the-point.sq.html
+Document ID: 1600	Score: 0.0	http://www.gnu.org/philosophy/free-software-even-more-important.it.html
+Document ID: 1606	Score: 0.0	http://www.gnu.org/philosophy/free-software-even-more-important.sq.html
+Document ID: 1614	Score: 0.0	http://www.gnu.org/proprietary/proprietary.it.html
+Document ID: 1627	Score: 0.0	http://www.gnu.org/proprietary/malware-apple.it.html
+Document ID: 1734	Score: 0.0	https://www.lemonde.fr/guides-d-achat/article/2018/06/26/les-meilleurs-ecouteurs-bluetooth-pour-courir_5321361_5306571.html
+Document ID: 1768	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/black-friday/v-1415201-1415201.html
+Document ID: 1769	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/l-14152.html
+Document ID: 1770	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/black-friday/jouets/l-141520124.html
+Document ID: 1771	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/black-friday/toute-la-selection/l-141520101.html
+Document ID: 1776	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/quel-ordinateur-portable-choisir-f/q-l-10709-3212606.html
+Document ID: 1782	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/v-10709-10709.html
+Document ID: 1791	Score: 0.0	https://www.cdiscount.com/telephonie/m/samsung/v-1448903-1448903.html
+Document ID: 1799	Score: 0.0	https://www.cdiscount.com/telephonie/m/l-14489.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "department" 
+14 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300	Score: 0.0	https://aitopics.org/search
+Document ID: 1696	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200780/Brussels-explosions-many-dead-in-attacks-on-Zaventem-airport-and-Metro-live-updates.html
+Document ID: 1704	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12202656/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1705	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12201991/Brussels-attacks-who-are-the-victims.html
+Document ID: 1706	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12201893/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1697	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12204363/Brussels-attacks-The-tough-questions-facing-the-Belgian-authorities-in-the-wake-of-the-bombing.html
+Document ID: 1700	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12204241/Belgian-security-is-so-bad-its-actually-a-threat-to-Britain.html
+Document ID: 1701	Score: 0.0	https://www.telegraph.co.uk/news/newstopics/eureferendum/12203847/When-will-Cameron-realise-he-cant-win-the-EU-referendum-by-scaring-us.html
+Document ID: 1703	Score: 0.0	https://www.telegraph.co.uk/news/uknews/terrorism-in-the-uk/12202855/bexit-brussels-attacks-eu-mi6-security.html
+Document ID: 1707	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200878/Brussels-explosions-everything-we-know-Tuesday-morning.html
+Document ID: 1709	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/france/12197932/Fingerprints-of-Paris-attacks-fugitive-Salah-Abdeslam-found-in-raided-Brussels-flat.html
+Document ID: 1783	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/pc-portables/l-1070992.html
+Document ID: 1787	Score: 0.0	https://www.cdiscount.com/informatique/netbooks-mini-portables/ultraportables/v-1074618-1074618.html
+Document ID: 1789	Score: 0.0	https://www.cdiscount.com/informatique/netbooks-mini-portables/lf-256_520-neuf.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "dept" 
+13 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300	Score: 0.0	https://aitopics.org/search
+Document ID: 1696	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200780/Brussels-explosions-many-dead-in-attacks-on-Zaventem-airport-and-Metro-live-updates.html
+Document ID: 1697	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12204363/Brussels-attacks-The-tough-questions-facing-the-Belgian-authorities-in-the-wake-of-the-bombing.html
+Document ID: 1700	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12204241/Belgian-security-is-so-bad-its-actually-a-threat-to-Britain.html
+Document ID: 1701	Score: 0.0	https://www.telegraph.co.uk/news/newstopics/eureferendum/12203847/When-will-Cameron-realise-he-cant-win-the-EU-referendum-by-scaring-us.html
+Document ID: 1703	Score: 0.0	https://www.telegraph.co.uk/news/uknews/terrorism-in-the-uk/12202855/bexit-brussels-attacks-eu-mi6-security.html
+Document ID: 1704	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12202656/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1706	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12201893/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1707	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200878/Brussels-explosions-everything-we-know-Tuesday-morning.html
+Document ID: 1709	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/france/12197932/Fingerprints-of-Paris-attacks-fugitive-Salah-Abdeslam-found-in-raided-Brussels-flat.html
+Document ID: 1783	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/pc-portables/l-1070992.html
+Document ID: 1787	Score: 0.0	https://www.cdiscount.com/informatique/netbooks-mini-portables/ultraportables/v-1074618-1074618.html
+Document ID: 1789	Score: 0.0	https://www.cdiscount.com/informatique/netbooks-mini-portables/lf-256_520-neuf.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"ai" , "department" 
+35 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300	Score: 0.0	https://aitopics.org/search
+Document ID: 1331	Score: 0.0	http://www.gnu.org/gnu/gnu.it.html
+Document ID: 1361	Score: 0.0	http://www.gnu.org/philosophy/philosophy.it.html
+Document ID: 1380	Score: 0.0	http://www.gnu.org/licenses/licenses.it.html
+Document ID: 1386	Score: 0.0	http://www.gnu.org/licenses/licenses.sq.html
+Document ID: 1396	Score: 0.0	http://www.gnu.org/graphics/philosophicalgnu.it.html
+Document ID: 1410	Score: 0.0	http://www.gnu.org/education/education.it.html
+Document ID: 1431	Score: 0.0	http://www.gnu.org/software/software.it.html
+Document ID: 1451	Score: 0.0	http://www.gnu.org/doc/doc.it.html
+Document ID: 1467	Score: 0.0	http://www.gnu.org/help/help.it.html
+Document ID: 1488	Score: 0.0	http://www.gnu.org/philosophy/free-doc.it.html
+Document ID: 1494	Score: 0.0	http://www.gnu.org/philosophy/free-doc.ro.html
+Document ID: 1509	Score: 0.0	http://www.gnu.org/philosophy/the-danger-of-ebooks.it.html
+Document ID: 1546	Score: 0.0	http://www.gnu.org/philosophy/free-sw.it.html
+Document ID: 1559	Score: 0.0	http://www.gnu.org/philosophy/free-sw.sq.html
+Document ID: 1578	Score: 0.0	http://www.gnu.org/philosophy/open-source-misses-the-point.it.html
+Document ID: 1585	Score: 0.0	http://www.gnu.org/philosophy/open-source-misses-the-point.ro.html
+Document ID: 1587	Score: 0.0	http://www.gnu.org/philosophy/open-source-misses-the-point.sq.html
+Document ID: 1600	Score: 0.0	http://www.gnu.org/philosophy/free-software-even-more-important.it.html
+Document ID: 1606	Score: 0.0	http://www.gnu.org/philosophy/free-software-even-more-important.sq.html
+Document ID: 1614	Score: 0.0	http://www.gnu.org/proprietary/proprietary.it.html
+Document ID: 1627	Score: 0.0	http://www.gnu.org/proprietary/malware-apple.it.html
+Document ID: 1734	Score: 0.0	https://www.lemonde.fr/guides-d-achat/article/2018/06/26/les-meilleurs-ecouteurs-bluetooth-pour-courir_5321361_5306571.html
+Document ID: 1768	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/black-friday/v-1415201-1415201.html
+Document ID: 1769	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/l-14152.html
+Document ID: 1770	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/black-friday/jouets/l-141520124.html
+Document ID: 1771	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/black-friday/toute-la-selection/l-141520101.html
+Document ID: 1776	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/quel-ordinateur-portable-choisir-f/q-l-10709-3212606.html
+Document ID: 1782	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/v-10709-10709.html
+Document ID: 1791	Score: 0.0	https://www.cdiscount.com/telephonie/m/samsung/v-1448903-1448903.html
+Document ID: 1799	Score: 0.0	https://www.cdiscount.com/telephonie/m/l-14489.html
+Document ID: 1696	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200780/Brussels-explosions-many-dead-in-attacks-on-Zaventem-airport-and-Metro-live-updates.html
+Document ID: 1704	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12202656/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1705	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12201991/Brussels-attacks-who-are-the-victims.html
+Document ID: 1706	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12201893/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"ai" , "dept" 
+31 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300	Score: 0.0	https://aitopics.org/search
+Document ID: 1331	Score: 0.0	http://www.gnu.org/gnu/gnu.it.html
+Document ID: 1361	Score: 0.0	http://www.gnu.org/philosophy/philosophy.it.html
+Document ID: 1380	Score: 0.0	http://www.gnu.org/licenses/licenses.it.html
+Document ID: 1386	Score: 0.0	http://www.gnu.org/licenses/licenses.sq.html
+Document ID: 1396	Score: 0.0	http://www.gnu.org/graphics/philosophicalgnu.it.html
+Document ID: 1410	Score: 0.0	http://www.gnu.org/education/education.it.html
+Document ID: 1431	Score: 0.0	http://www.gnu.org/software/software.it.html
+Document ID: 1451	Score: 0.0	http://www.gnu.org/doc/doc.it.html
+Document ID: 1467	Score: 0.0	http://www.gnu.org/help/help.it.html
+Document ID: 1488	Score: 0.0	http://www.gnu.org/philosophy/free-doc.it.html
+Document ID: 1494	Score: 0.0	http://www.gnu.org/philosophy/free-doc.ro.html
+Document ID: 1509	Score: 0.0	http://www.gnu.org/philosophy/the-danger-of-ebooks.it.html
+Document ID: 1546	Score: 0.0	http://www.gnu.org/philosophy/free-sw.it.html
+Document ID: 1559	Score: 0.0	http://www.gnu.org/philosophy/free-sw.sq.html
+Document ID: 1578	Score: 0.0	http://www.gnu.org/philosophy/open-source-misses-the-point.it.html
+Document ID: 1585	Score: 0.0	http://www.gnu.org/philosophy/open-source-misses-the-point.ro.html
+Document ID: 1587	Score: 0.0	http://www.gnu.org/philosophy/open-source-misses-the-point.sq.html
+Document ID: 1600	Score: 0.0	http://www.gnu.org/philosophy/free-software-even-more-important.it.html
+Document ID: 1606	Score: 0.0	http://www.gnu.org/philosophy/free-software-even-more-important.sq.html
+Document ID: 1614	Score: 0.0	http://www.gnu.org/proprietary/proprietary.it.html
+Document ID: 1627	Score: 0.0	http://www.gnu.org/proprietary/malware-apple.it.html
+Document ID: 1734	Score: 0.0	https://www.lemonde.fr/guides-d-achat/article/2018/06/26/les-meilleurs-ecouteurs-bluetooth-pour-courir_5321361_5306571.html
+Document ID: 1768	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/black-friday/v-1415201-1415201.html
+Document ID: 1769	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/l-14152.html
+Document ID: 1770	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/black-friday/jouets/l-141520124.html
+Document ID: 1771	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/black-friday/toute-la-selection/l-141520101.html
+Document ID: 1776	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/quel-ordinateur-portable-choisir-f/q-l-10709-3212606.html
+Document ID: 1782	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/v-10709-10709.html
+Document ID: 1791	Score: 0.0	https://www.cdiscount.com/telephonie/m/samsung/v-1448903-1448903.html
+Document ID: 1799	Score: 0.0	https://www.cdiscount.com/telephonie/m/l-14489.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"a.i." , "department" 
+4 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1696	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200780/Brussels-explosions-many-dead-in-attacks-on-Zaventem-airport-and-Metro-live-updates.html
+Document ID: 1704	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12202656/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1705	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12201991/Brussels-attacks-who-are-the-victims.html
+Document ID: 1706	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12201893/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"a.i." , "dept" 
+KEYWORDS NOT FOUND
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "researcher" 
+13 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300	Score: 0.0	https://aitopics.org/search
+Document ID: 1696	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200780/Brussels-explosions-many-dead-in-attacks-on-Zaventem-airport-and-Metro-live-updates.html
+Document ID: 1697	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12204363/Brussels-attacks-The-tough-questions-facing-the-Belgian-authorities-in-the-wake-of-the-bombing.html
+Document ID: 1700	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12204241/Belgian-security-is-so-bad-its-actually-a-threat-to-Britain.html
+Document ID: 1701	Score: 0.0	https://www.telegraph.co.uk/news/newstopics/eureferendum/12203847/When-will-Cameron-realise-he-cant-win-the-EU-referendum-by-scaring-us.html
+Document ID: 1703	Score: 0.0	https://www.telegraph.co.uk/news/uknews/terrorism-in-the-uk/12202855/bexit-brussels-attacks-eu-mi6-security.html
+Document ID: 1704	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12202656/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1706	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12201893/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1707	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200878/Brussels-explosions-everything-we-know-Tuesday-morning.html
+Document ID: 1709	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/france/12197932/Fingerprints-of-Paris-attacks-fugitive-Salah-Abdeslam-found-in-raided-Brussels-flat.html
+Document ID: 1783	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/pc-portables/l-1070992.html
+Document ID: 1787	Score: 0.0	https://www.cdiscount.com/informatique/netbooks-mini-portables/ultraportables/v-1074618-1074618.html
+Document ID: 1789	Score: 0.0	https://www.cdiscount.com/informatique/netbooks-mini-portables/lf-256_520-neuf.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "researchers" 
+13 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300	Score: 0.0	https://aitopics.org/search
+Document ID: 1696	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200780/Brussels-explosions-many-dead-in-attacks-on-Zaventem-airport-and-Metro-live-updates.html
+Document ID: 1697	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12204363/Brussels-attacks-The-tough-questions-facing-the-Belgian-authorities-in-the-wake-of-the-bombing.html
+Document ID: 1700	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12204241/Belgian-security-is-so-bad-its-actually-a-threat-to-Britain.html
+Document ID: 1701	Score: 0.0	https://www.telegraph.co.uk/news/newstopics/eureferendum/12203847/When-will-Cameron-realise-he-cant-win-the-EU-referendum-by-scaring-us.html
+Document ID: 1703	Score: 0.0	https://www.telegraph.co.uk/news/uknews/terrorism-in-the-uk/12202855/bexit-brussels-attacks-eu-mi6-security.html
+Document ID: 1704	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12202656/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1706	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12201893/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1707	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200878/Brussels-explosions-everything-we-know-Tuesday-morning.html
+Document ID: 1709	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/france/12197932/Fingerprints-of-Paris-attacks-fugitive-Salah-Abdeslam-found-in-raided-Brussels-flat.html
+Document ID: 1783	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/pc-portables/l-1070992.html
+Document ID: 1787	Score: 0.0	https://www.cdiscount.com/informatique/netbooks-mini-portables/ultraportables/v-1074618-1074618.html
+Document ID: 1789	Score: 0.0	https://www.cdiscount.com/informatique/netbooks-mini-portables/lf-256_520-neuf.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "research" 
+15 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300	Score: 0.0	https://aitopics.org/search
+Document ID: 1696	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200780/Brussels-explosions-many-dead-in-attacks-on-Zaventem-airport-and-Metro-live-updates.html
+Document ID: 1697	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12204363/Brussels-attacks-The-tough-questions-facing-the-Belgian-authorities-in-the-wake-of-the-bombing.html
+Document ID: 1700	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12204241/Belgian-security-is-so-bad-its-actually-a-threat-to-Britain.html
+Document ID: 1701	Score: 0.0	https://www.telegraph.co.uk/news/newstopics/eureferendum/12203847/When-will-Cameron-realise-he-cant-win-the-EU-referendum-by-scaring-us.html
+Document ID: 1703	Score: 0.0	https://www.telegraph.co.uk/news/uknews/terrorism-in-the-uk/12202855/bexit-brussels-attacks-eu-mi6-security.html
+Document ID: 1704	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12202656/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1706	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12201893/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1707	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200878/Brussels-explosions-everything-we-know-Tuesday-morning.html
+Document ID: 1709	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/france/12197932/Fingerprints-of-Paris-attacks-fugitive-Salah-Abdeslam-found-in-raided-Brussels-flat.html
+Document ID: 1783	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/pc-portables/l-1070992.html
+Document ID: 1787	Score: 0.0	https://www.cdiscount.com/informatique/netbooks-mini-portables/ultraportables/v-1074618-1074618.html
+Document ID: 1789	Score: 0.0	https://www.cdiscount.com/informatique/netbooks-mini-portables/lf-256_520-neuf.html
+Document ID: 1631	Score: 0.0	http://www.telegraph.co.uk/technology/3358134/Apples-Jobs-confirms-iPhone-kill-switch.html
+Document ID: 1705	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12201991/Brussels-attacks-who-are-the-victims.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "ai" 
+43 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300	Score: 0.0	https://aitopics.org/search
+Document ID: 1331	Score: 0.0	http://www.gnu.org/gnu/gnu.it.html
+Document ID: 1361	Score: 0.0	http://www.gnu.org/philosophy/philosophy.it.html
+Document ID: 1380	Score: 0.0	http://www.gnu.org/licenses/licenses.it.html
+Document ID: 1386	Score: 0.0	http://www.gnu.org/licenses/licenses.sq.html
+Document ID: 1396	Score: 0.0	http://www.gnu.org/graphics/philosophicalgnu.it.html
+Document ID: 1410	Score: 0.0	http://www.gnu.org/education/education.it.html
+Document ID: 1431	Score: 0.0	http://www.gnu.org/software/software.it.html
+Document ID: 1451	Score: 0.0	http://www.gnu.org/doc/doc.it.html
+Document ID: 1467	Score: 0.0	http://www.gnu.org/help/help.it.html
+Document ID: 1488	Score: 0.0	http://www.gnu.org/philosophy/free-doc.it.html
+Document ID: 1494	Score: 0.0	http://www.gnu.org/philosophy/free-doc.ro.html
+Document ID: 1509	Score: 0.0	http://www.gnu.org/philosophy/the-danger-of-ebooks.it.html
+Document ID: 1546	Score: 0.0	http://www.gnu.org/philosophy/free-sw.it.html
+Document ID: 1559	Score: 0.0	http://www.gnu.org/philosophy/free-sw.sq.html
+Document ID: 1578	Score: 0.0	http://www.gnu.org/philosophy/open-source-misses-the-point.it.html
+Document ID: 1585	Score: 0.0	http://www.gnu.org/philosophy/open-source-misses-the-point.ro.html
+Document ID: 1587	Score: 0.0	http://www.gnu.org/philosophy/open-source-misses-the-point.sq.html
+Document ID: 1600	Score: 0.0	http://www.gnu.org/philosophy/free-software-even-more-important.it.html
+Document ID: 1606	Score: 0.0	http://www.gnu.org/philosophy/free-software-even-more-important.sq.html
+Document ID: 1614	Score: 0.0	http://www.gnu.org/proprietary/proprietary.it.html
+Document ID: 1627	Score: 0.0	http://www.gnu.org/proprietary/malware-apple.it.html
+Document ID: 1734	Score: 0.0	https://www.lemonde.fr/guides-d-achat/article/2018/06/26/les-meilleurs-ecouteurs-bluetooth-pour-courir_5321361_5306571.html
+Document ID: 1768	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/black-friday/v-1415201-1415201.html
+Document ID: 1769	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/l-14152.html
+Document ID: 1770	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/black-friday/jouets/l-141520124.html
+Document ID: 1771	Score: 0.0	https://www.cdiscount.com/corner/temps-forts/black-friday/toute-la-selection/l-141520101.html
+Document ID: 1776	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/quel-ordinateur-portable-choisir-f/q-l-10709-3212606.html
+Document ID: 1782	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/v-10709-10709.html
+Document ID: 1791	Score: 0.0	https://www.cdiscount.com/telephonie/m/samsung/v-1448903-1448903.html
+Document ID: 1799	Score: 0.0	https://www.cdiscount.com/telephonie/m/l-14489.html
+Document ID: 1696	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200780/Brussels-explosions-many-dead-in-attacks-on-Zaventem-airport-and-Metro-live-updates.html
+Document ID: 1697	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12204363/Brussels-attacks-The-tough-questions-facing-the-Belgian-authorities-in-the-wake-of-the-bombing.html
+Document ID: 1700	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12204241/Belgian-security-is-so-bad-its-actually-a-threat-to-Britain.html
+Document ID: 1701	Score: 0.0	https://www.telegraph.co.uk/news/newstopics/eureferendum/12203847/When-will-Cameron-realise-he-cant-win-the-EU-referendum-by-scaring-us.html
+Document ID: 1703	Score: 0.0	https://www.telegraph.co.uk/news/uknews/terrorism-in-the-uk/12202855/bexit-brussels-attacks-eu-mi6-security.html
+Document ID: 1704	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12202656/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1706	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12201893/Brussels-bombing-Belgium-terrorist-attacks-Isil-live.html
+Document ID: 1707	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/belgium/12200878/Brussels-explosions-everything-we-know-Tuesday-morning.html
+Document ID: 1709	Score: 0.0	https://www.telegraph.co.uk/news/worldnews/europe/france/12197932/Fingerprints-of-Paris-attacks-fugitive-Salah-Abdeslam-found-in-raided-Brussels-flat.html
+Document ID: 1783	Score: 0.0	https://www.cdiscount.com/informatique/ordinateurs-pc-portables/pc-portables/l-1070992.html
+Document ID: 1787	Score: 0.0	https://www.cdiscount.com/informatique/netbooks-mini-portables/ultraportables/v-1074618-1074618.html
+Document ID: 1789	Score: 0.0	https://www.cdiscount.com/informatique/netbooks-mini-portables/lf-256_520-neuf.html

@@ -40,6 +40,7 @@ public class BM25Posting {
 
 	//VARIABLES
 	private int docID = -1;
+	private String url;
 	private int frequency = 0;
 	private String tag = null;
 	private int docLength = -1;
@@ -50,8 +51,9 @@ public class BM25Posting {
 
 
 	//CONSTRUCTOR
-	public BM25Posting(int docID, String tag, int docLength){
+	public BM25Posting(int docID, String tag, int docLength, String url){
 		this.docID = docID;
+		this.url = url;
 		if (this.tag == null)
 			this.tag = tag;
 		this.docLength = docLength;
@@ -82,6 +84,7 @@ public class BM25Posting {
 	public int getFrequency(){ return this.frequency; }
 	public int getDocID(){ return this.docID; }
 	public double getRank(){ return this.bm25Rank; }
+	public String getUrl(){ return this.url; }
 
 	//DISPLAY
 	public String toString(){	return ( "DocID: " + docID + " <" + tag + "> " + "Freq=(" + frequency + ")" + " Rank: " + bm25Rank); }//close function to string

@@ -44,7 +44,7 @@ public class BM25Indexer {
 			//PARSE AND GET TITLE
 			htmlTokens.get(i).parseTitle();
 			for (int j = 0 ; j < htmlTokens.get(i).getParsedTitle().size() ; j++ )
-				dictionary.searchAndAdd( htmlTokens.get(i).getParsedTitle(j), htmlTokens.get(i).getDocID(), "TITLE", htmlTokens.get(i).textSize() );
+				dictionary.searchAndAdd( htmlTokens.get(i).getParsedTitle(j), htmlTokens.get(i).getDocID(), "TITLE", htmlTokens.get(i).textSize(), htmlTokens.get(i).getUrl() );
 			//GET ALL TERMS IN THE HTML TEXT	
 			for (int j = 0 ; j < htmlTokens.get(i).textSize() ; j++ ){
 				corpusSize++;
@@ -52,7 +52,7 @@ public class BM25Indexer {
 				term = htmlTokens.get(i).getText(j);
 				docID = htmlTokens.get(i).getDocID();
 				//SEARCH AND ADD THE DATA
-				dictionary.searchAndAdd( term, docID, "TEXT", htmlTokens.get(i).textSize() );
+				dictionary.searchAndAdd( term, docID, "TEXT", htmlTokens.get(i).textSize(), htmlTokens.get(i).getUrl() );
 			}//close for j each token in the article
 		}//close loop for i each 500 articles
 		//SORT DICTIONARY
@@ -63,30 +63,6 @@ public class BM25Indexer {
 	}//close function construct Index	
 
 
-	public void constructPartialIndex(ArrayList<ReutersArticle> articles, BM25Dictionary dictionary, double avdl){
-		//VARIABLES
-		BM25Token token;
-		String term;
-		int docID;
-		String tag;
-		int corpusSize = 0;
-		dictionary.setNumOfDocs(articles.size());
-		dictionary.setAVDL(avdl);
-		for (int i = 0 ; i < 4001 ; i++){
-			if ( i % 1000 == 0 )
-				System.out.println("CONSTRUCTED RANKED INDEXES FOR THE FIRST " + i + " ARTICLES");
-			for (int j = 0 ; j < articles.get(i).countTokens() ; j++ ){
-				//GET THE TERM AND DOCID
-				term = articles.get(i).getToken(j).getValue();
-				docID = Integer.parseInt(articles.get(i).getToken(j).getNewId());
-				tag = articles.get(i).getToken(j).getReuterTag();
-				//SEARCH AND ADD THE DATA
-				dictionary.searchAndAdd( term, docID, tag, articles.get(i).countTokens() );
-			}//close for j each token in the article
-		}//close loop for i each 500 articles
-		//SORT DICTIONARY
-		dictionary.sort();
-	}//close function construct Index	
 
 	//SETTER AND GETTERS
 

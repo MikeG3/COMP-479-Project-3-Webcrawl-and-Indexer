@@ -94,7 +94,7 @@ public class BM25Dictionary {
 	}//close function sort postings
 	
 	//SEARCH AND ADD
-	public void searchAndAdd(String term, int docID, String tag, int docLength){
+	public void searchAndAdd(String term, int docID, String tag, int docLength, String url){
 		//search through all tokens in the dictionary
 			//if found
 				//*for all input.postings				*
@@ -107,12 +107,12 @@ public class BM25Dictionary {
 		for ( int i = 0 ; i < terms.size() ; i++ ){
 			//IF THE TERM EXISTS, APPEND THAT DOCUMENT ID (OR INCREASE FREQUENCY IF ALREADY EXISTS THERE TOO)
 			if ( terms.get(i).getTerm().equals( term ) ){
-				terms.get(i).addPosting( docID, tag, docLength);
+				terms.get(i).addPosting( docID, tag, docLength, url);
 				return;
 			}//close if the term matches an entry already found in the dictionary
 		}//close while i
 		//ELSE, ADD THAT TERM TO THE DICITONARY
-		BM25Token bm25 = new BM25Token(term, docID, tag, docLength);
+		BM25Token bm25 = new BM25Token(term, docID, tag, docLength, url);
 		terms.add( bm25 );	
 	}//close function search and add
 

@@ -26,9 +26,9 @@ public class BM25Token {
 
 	//CONSTRUCTORS
 	public BM25Token(){ idCounter++;	id = idCounter;}
-	public BM25Token(String term, int docID, String tag, int docLength){ 
+	public BM25Token(String term, int docID, String tag, int docLength, String url){ 
 		this.term = term;
-		this.addPosting(docID, tag, docLength);
+		this.addPosting(docID, tag, docLength, url);
 		idCounter++;	
 		id = idCounter;
 	}//close constructor
@@ -51,7 +51,7 @@ public class BM25Token {
 	}//close equals
 	
 	//ADD DOC ID
-	public void addPosting(int docID, String tag, int docLength){
+	public void addPosting(int docID, String tag, int docLength, String url){
 		//If there are already postings,see if it exists
 		if (posting.size() > 0){
 			for (int i = 0 ; i < posting.size() ; i++ )
@@ -62,7 +62,7 @@ public class BM25Token {
 				}//close if the docID is already in the postings list
 		}//close if there are postings
 		//Else, add it to the list
-		BM25Posting post = new BM25Posting(docID, tag, docLength);
+		BM25Posting post = new BM25Posting(docID, tag, docLength, url);
 		posting.add(post);
 	}//close function add Posting
 
