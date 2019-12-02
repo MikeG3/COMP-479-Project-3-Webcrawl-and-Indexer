@@ -39,15 +39,17 @@
 public class BM25Posting {
 
 	//VARIABLES
-	private int docID = -1;
-	private String url;
-	private int frequency = 0;
-	private String tag = null;
-	private int docLength = -1;
-	static int numOfDocs = -1;
-	private double idf = -1;
-	private double bm25Rank;
-	private final double K = 1.0, B = 0.5;
+	private int docID = -1;			//document id
+	private String url;				//website address
+	private int frequency = 0;		//number of times the term is found in the document
+	private int df = 0;				//number of documents containing the term
+	private String tag = null;		//tag where the term was found
+	private int docLength = -1;		//length of document where the posting is found
+	static int numOfDocs = -1;		//total number of documents in the corpus
+	private double idf = -1;		//IDF = LOG( N / DF )
+	private double tfidf = -1;		//TFIDF = TF * LOG( N / DF )
+	private double bm25Rank;		//BM25 =  IDF * TF * (K + 1) /(K * (1 - B + B*DL/AVDL) +  TF) 
+	private final double K = 1.0, B = 0.5;	//BM25 parameters
 
 
 	//CONSTRUCTOR
@@ -70,14 +72,16 @@ public class BM25Posting {
 		this.numOfDocs = numOfDocs;
 		calculateIDF();
 		//BM25 =  IDF * TF * (K + 1) /(K * (1 - B + B*DL/AVDL) +  TF) 
-		bm25Rank = idf * frequency * (K+1.0) / (K* (1-B+(B*(double) docLength/(double) avdl)) + frequency);
+		bm25Rank = tfidf * (K+1.0) / (K* (1-B+(B*(double) docLength/(double) avdl)) + frequency);
 		//ADD VALUE IF IN TITLE
 		if (this.tag.equals("TITLE"))
 			bm25Rank += 10;
 	}//close function calculate idf
 	public void calculateIDF(){
 		//IDF = LOG( N / DF )
-		idf = Math.log( ( (double) numOfDocs / (double) frequency) ) ;
+		idf = Math.log( ( (double) numOfDocs / (double) df) ) ;
+		//TFIDF = TF * LOG( N / DF )		DF = number of documents containing the term
+		tfidf = idf*frequency;
 	}//close function calculate idf
 	
 	//STTERS AND GETTERS
@@ -85,8 +89,15 @@ public class BM25Posting {
 	public int getDocID(){ return this.docID; }
 	public double getRank(){ return this.bm25Rank; }
 	public String getUrl(){ return this.url; }
+	public void setDF(int in){ this.df = in; }
+	public double getTfidf(){ return this.tfidf; }
+	public String getTag(){ return this.tag; }
 
 	//DISPLAY
-	public String toString(){	return ( "DocID: " + docID + " <" + tag + "> " + "Freq=(" + frequency + ")" + " Rank: " + bm25Rank); }//close function to string
+	public String toString(){	
+		String.format("%.5f", bm25Rank);
+		String.format("%.5f", tfidf);
+		return ( "DocID: " + docID + " <" + tag + "> " + "Freq=(" + frequency + ")" + " Rank: " + bm25Rank + "  TF-IDF=(" + tfidf + ")"); 
+	}//close function to string
 
 }//CLOSE CLASS BM25 Posting

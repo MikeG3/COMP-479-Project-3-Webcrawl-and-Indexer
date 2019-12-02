@@ -64,7 +64,7 @@ public class HTMLToken {
 	//SERVICE METHODS
 	public void removeWhiteSpace(){
 		for (int i = 0 ; i < parsedText.size() ; i++ )
-			if (parsedText.get(i)==""||parsedText.get(i)==" "||parsedText.get(i)==null||parsedText.get(i)=="\t"||parsedText.get(i)=="\r"||parsedText.get(i)=="\f"||parsedText.get(i)=="\n")
+			if (parsedText.get(i)==null||parsedText.get(i)==""||parsedText.get(i)==" "||parsedText.get(i)==null||parsedText.get(i)=="\t"||parsedText.get(i)=="\r"||parsedText.get(i)=="\f"||parsedText.get(i)=="\n")
 				parsedText.remove(parsedText.get(i));
 	}//close function remove white space
 	

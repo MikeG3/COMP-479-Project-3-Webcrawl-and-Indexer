@@ -70,6 +70,9 @@ public class CompressorLossy {
 				isNumber = false;
 		if (isNumber || out.length() == 1 )
 			return "";
+		//REMOVE EVERYTHING DOES NOT CONTAIN ANY TEXT OR NUMBERS
+		if ( !out.matches(".*[a-zA-Z]+.*") && !out.matches(".*\\d.*"))
+			return "";
 		//System.out.println("compressor debug 6\tin=" + in +"\tout="+out +"\tisNumber="+ isNumber );
 		return out;
 	}//close function lossy compression

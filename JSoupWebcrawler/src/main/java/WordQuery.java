@@ -74,7 +74,7 @@ public class WordQuery {
 					}//close if it exists already
 				//ELSE DOCID EXISTS ADD TO THE SCORE TO THAT QUERY RESULT
 				if (!exists){
-					qr = new BM25QueryResult( tokens.get(i).getPosting(j).getDocID(), tokens.get(i).getPosting(j).getRank(), tokens.get(i).getPosting(j).getUrl() );
+					qr = new BM25QueryResult( tokens.get(i).getPosting(j).getDocID(), tokens.get(i).getPosting(j).getRank(), tokens.get(i).getPosting(j).getUrl(), tokens.get(i).getPosting(j).getTfidf(), tokens.get(i).getPosting(j).getTag() );
 					results.add(qr);
 				}//close else does not exist
 			}//close for j for each posting

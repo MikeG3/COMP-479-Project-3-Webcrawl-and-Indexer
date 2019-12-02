@@ -49,6 +49,10 @@ public class BM25Token {
 					return false;
 		return out;
 	}//close equals
+	public void setDF(){
+		for (int i = 0 ; i < posting.size() ; i++)
+			posting.get(i).setDF( posting.size());
+	}//close method set df
 	
 	//ADD DOC ID
 	public void addPosting(int docID, String tag, int docLength, String url){
@@ -67,6 +71,7 @@ public class BM25Token {
 	}//close function add Posting
 
 	public void calculateBM25(double avdl, int numOfDocs){
+		setDF();
 		for (int i = 0 ; i < posting.size() ; i++ ){
 			posting.get(i).calculateBM25(avdl, numOfDocs);
 		}//close for i
