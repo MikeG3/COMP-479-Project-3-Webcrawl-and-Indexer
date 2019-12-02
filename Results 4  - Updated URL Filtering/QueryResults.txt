@@ -1,0 +1,79 @@
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "ai" , "a.i" , "research" , "researcher" , "researchers" 
+3 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 0 <TEXT>	Score(BM25/TfIdf): 13.098234761120771 / 1.0986122886681098	https://www.concordia.ca/research.html
+Document ID: 1 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/events/cancelled-classes.html
+Document ID: 2 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/students/registration.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" 
+KEYWORDS NOT FOUND
+
+DISPLAYING RESULTS FROM QUERY: 
+"a.i." 
+KEYWORDS NOT FOUND
+
+DISPLAYING RESULTS FROM QUERY: 
+"ai" 
+1 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 0 <TEXT>	Score(BM25/TfIdf): 1.3073471545856634 / 1.0986122886681098	https://www.concordia.ca/research.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "department" 
+1 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 2 <TEXT>	Score(BM25/TfIdf): 2.0064719676752114 / 19.775021196025975	https://www.concordia.ca/students/registration.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "dept" 
+KEYWORDS NOT FOUND
+
+DISPLAYING RESULTS FROM QUERY: 
+"ai" , "department" 
+2 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 2 <TEXT>	Score(BM25/TfIdf): 2.0064719676752114 / 19.775021196025975	https://www.concordia.ca/students/registration.html
+Document ID: 0 <TEXT>	Score(BM25/TfIdf): 1.3073471545856634 / 1.0986122886681098	https://www.concordia.ca/research.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"ai" , "dept" 
+1 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 0 <TEXT>	Score(BM25/TfIdf): 1.3073471545856634 / 1.0986122886681098	https://www.concordia.ca/research.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"a.i." , "department" 
+1 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 2 <TEXT>	Score(BM25/TfIdf): 2.0064719676752114 / 19.775021196025975	https://www.concordia.ca/students/registration.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"a.i." , "dept" 
+KEYWORDS NOT FOUND
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "researcher" 
+KEYWORDS NOT FOUND
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "researchers" 
+1 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 0 <TEXT>	Score(BM25/TfIdf): 1.7908876065351076 / 3.295836866004329	https://www.concordia.ca/research.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "research" 
+3 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 0 <TITLE>	Score(BM25/TfIdf): 10.0 / 0.0	https://www.concordia.ca/research.html
+Document ID: 1 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/events/cancelled-classes.html
+Document ID: 2 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/students/registration.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "ai" 
+1 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 0 <TEXT>	Score(BM25/TfIdf): 1.3073471545856634 / 1.0986122886681098	https://www.concordia.ca/research.html

@@ -1,0 +1,3 @@
+0			https://www.concordia.ca/research.html
+1			https://www.concordia.ca/events/cancelled-classes.html
+2			https://www.concordia.ca/students/registration.html

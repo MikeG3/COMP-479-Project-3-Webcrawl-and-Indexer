@@ -12,13 +12,13 @@ MICHAEL GARNER
 COMP 479 
 Project
 
-*/
+ */
 
 /*
 
 	PARSES HTML TEXT AND PROCESSES/CLEANS/FILTERS AND COMPRESSES DATA
 
-*/
+ */
 public class HTMLPreprocessor {
 
 	//ATTRIBUTES
@@ -31,12 +31,15 @@ public class HTMLPreprocessor {
 		String[] parsedText;
 		ArrayList<String> out = new ArrayList<String>();
 		//SPLIT TEXT
-		parsedText = in.split(" ");
-		//COMPRESS TEXT
-		CompressorLossy compress = new CompressorLossy();
-		for (int i = 0 ; i < parsedText.length ; i++ ){
-			out.add( compress.lossyCompression(parsedText[i]) );
-		}//close for i
+		if ( in != null ){
+			parsedText = in.split("\\W");
+			//parsedText = in.split("\\s+");
+			//COMPRESS TEXT
+			CompressorLossy compress = new CompressorLossy();
+			for (int i = 0 ; i < parsedText.length ; i++ ){
+				out.add( compress.lossyCompression(parsedText[i]) );
+			}//close for i
+		}//close if not null
 		return out;
 	}//close function compress text
 

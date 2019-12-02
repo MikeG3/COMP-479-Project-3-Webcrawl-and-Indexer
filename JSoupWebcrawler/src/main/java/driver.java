@@ -38,7 +38,7 @@ public class driver {
 		int tokenCount = 0;
 		int aitokenCount = 0;
 		final int MAX = 5000;			//SET MAXIMUM PAGES TO CRAWL FOR CONCORDIA INDEX
-		final int AIMAX = 5000;			//SET MAXIMUM PAGES TO CRAWL FOR AI INDEX
+		final int AIMAX = 1500;			//SET MAXIMUM PAGES TO CRAWL FOR AI INDEX
 		Disk_Writer diskWriter = new Disk_Writer();
 		BM25Dictionary dictionary = new BM25Dictionary();
 		BM25Dictionary aidictionary = new BM25Dictionary();

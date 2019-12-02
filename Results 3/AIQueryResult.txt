@@ -1,0 +1,97 @@
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "ai" , "a.i" , "research" , "researcher" , "researchers" 
+4 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300 <TEXT>	Score(BM25/TfIdf): 40.525942220519966 / 94.44643329888875	https://aitopics.org/search
+Document ID: 1324 <TEXT>	Score(BM25/TfIdf): 5.831026501426189 / 4.553876891600541	https://jeremylong.github.io/DependencyCheck/related.html
+Document ID: 1396 <TEXT>	Score(BM25/TfIdf): 4.469318177144983 / 4.148411783492376	https://www.ej-technologies.com/products/install4j/testimonials.html
+Document ID: 1478 <TEXT>	Score(BM25/TfIdf): 4.469318177144983 / 4.148411783492376	https://www.ej-technologies.com:443/products/install4j/testimonials.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" 
+2 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300 <TEXT>	Score(BM25/TfIdf): 18.5419015160721 / 236.11608324722187	https://aitopics.org/search
+Document ID: 1324 <TEXT>	Score(BM25/TfIdf): 5.831026501426189 / 4.553876891600541	https://jeremylong.github.io/DependencyCheck/related.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"a.i." 
+KEYWORDS NOT FOUND
+
+DISPLAYING RESULTS FROM QUERY: 
+"ai" 
+1 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300 <TEXT>	Score(BM25/TfIdf): 9.567605924126951 / 94.44643329888875	https://aitopics.org/search
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "department" 
+4 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300 <TEXT>	Score(BM25/TfIdf): 18.5419015160721 / 236.11608324722187	https://aitopics.org/search
+Document ID: 1382 <TEXT>	Score(BM25/TfIdf): 6.950690991569575 / 9.107753783201082	https://www.ej-technologies.com/buy/orderfaq.html
+Document ID: 1464 <TEXT>	Score(BM25/TfIdf): 6.950690991569575 / 9.107753783201082	https://www.ej-technologies.com:443/buy/orderfaq.html
+Document ID: 1324 <TEXT>	Score(BM25/TfIdf): 5.831026501426189 / 4.553876891600541	https://jeremylong.github.io/DependencyCheck/related.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "dept" 
+2 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300 <TEXT>	Score(BM25/TfIdf): 18.5419015160721 / 236.11608324722187	https://aitopics.org/search
+Document ID: 1324 <TEXT>	Score(BM25/TfIdf): 5.831026501426189 / 4.553876891600541	https://jeremylong.github.io/DependencyCheck/related.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"ai" , "department" 
+3 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300 <TEXT>	Score(BM25/TfIdf): 9.567605924126951 / 94.44643329888875	https://aitopics.org/search
+Document ID: 1382 <TEXT>	Score(BM25/TfIdf): 6.950690991569575 / 9.107753783201082	https://www.ej-technologies.com/buy/orderfaq.html
+Document ID: 1464 <TEXT>	Score(BM25/TfIdf): 6.950690991569575 / 9.107753783201082	https://www.ej-technologies.com:443/buy/orderfaq.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"ai" , "dept" 
+1 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300 <TEXT>	Score(BM25/TfIdf): 9.567605924126951 / 94.44643329888875	https://aitopics.org/search
+
+DISPLAYING RESULTS FROM QUERY: 
+"a.i." , "department" 
+2 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1382 <TEXT>	Score(BM25/TfIdf): 6.950690991569575 / 9.107753783201082	https://www.ej-technologies.com/buy/orderfaq.html
+Document ID: 1464 <TEXT>	Score(BM25/TfIdf): 6.950690991569575 / 9.107753783201082	https://www.ej-technologies.com:443/buy/orderfaq.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"a.i." , "dept" 
+KEYWORDS NOT FOUND
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "researcher" 
+2 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300 <TEXT>	Score(BM25/TfIdf): 25.179558293304382 / 236.11608324722187	https://aitopics.org/search
+Document ID: 1324 <TEXT>	Score(BM25/TfIdf): 5.831026501426189 / 4.553876891600541	https://jeremylong.github.io/DependencyCheck/related.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "researchers" 
+2 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300 <TEXT>	Score(BM25/TfIdf): 18.5419015160721 / 236.11608324722187	https://aitopics.org/search
+Document ID: 1324 <TEXT>	Score(BM25/TfIdf): 5.831026501426189 / 4.553876891600541	https://jeremylong.github.io/DependencyCheck/related.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "research" 
+4 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300 <TEXT>	Score(BM25/TfIdf): 24.320679519160734 / 236.11608324722187	https://aitopics.org/search
+Document ID: 1324 <TEXT>	Score(BM25/TfIdf): 5.831026501426189 / 4.553876891600541	https://jeremylong.github.io/DependencyCheck/related.html
+Document ID: 1396 <TEXT>	Score(BM25/TfIdf): 4.469318177144983 / 4.148411783492376	https://www.ej-technologies.com/products/install4j/testimonials.html
+Document ID: 1478 <TEXT>	Score(BM25/TfIdf): 4.469318177144983 / 4.148411783492376	https://www.ej-technologies.com:443/products/install4j/testimonials.html
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "ai" 
+2 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 1300 <TEXT>	Score(BM25/TfIdf): 28.109507440199053 / 94.44643329888875	https://aitopics.org/search
+Document ID: 1324 <TEXT>	Score(BM25/TfIdf): 5.831026501426189 / 4.553876891600541	https://jeremylong.github.io/DependencyCheck/related.html

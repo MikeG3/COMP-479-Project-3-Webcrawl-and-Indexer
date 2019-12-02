@@ -1,0 +1,177 @@
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "ai" , "a.i" , "research" , "researcher" , "researchers" 
+10 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 55 <TITLE>	Score(BM25/TfIdf): 10.0 / 0.0	https://aitopics.org/misc/brief-history
+Document ID: 56 <TITLE>	Score(BM25/TfIdf): 10.0 / 0.0	https://aitopics.org/misc/brief-history#
+Document ID: 50 <TEXT>	Score(BM25/TfIdf): 2.028324304207069 / 0.0	https://aitopics.org/search
+Document ID: 51 <TEXT>	Score(BM25/TfIdf): 2.028324304207069 / 0.0	https://aitopics.org/search#
+Document ID: 52 <TEXT>	Score(BM25/TfIdf): 2.028324304207069 / 0.0	https://aitopics.org/search#help
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 0.3596307280514756 / 0.0	https://aitopics.org/class/AI-Alerts
+Document ID: 58 <TEXT>	Score(BM25/TfIdf): 0.3596307280514756 / 0.0	https://aitopics.org/class/AI-Alerts#
+Document ID: 59 <TEXT>	Score(BM25/TfIdf): 0.3596307280514756 / 0.0	https://aitopics.org/class/AI-Alerts#help
+Document ID: 53 <TEXT>	Score(BM25/TfIdf): 0.34267551921835065 / 0.0	https://aitopics.org/misc/about
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 0.34267551921835065 / 0.0	https://aitopics.org/misc/about#
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" 
+10 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 50 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search
+Document ID: 51 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search#
+Document ID: 52 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search#help
+Document ID: 53 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about#
+Document ID: 55 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/brief-history
+Document ID: 56 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/brief-history#
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts
+Document ID: 58 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#
+Document ID: 59 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#help
+
+DISPLAYING RESULTS FROM QUERY: 
+"a.i." 
+KEYWORDS NOT FOUND
+
+DISPLAYING RESULTS FROM QUERY: 
+"ai" 
+10 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 55 <TITLE>	Score(BM25/TfIdf): 10.0 / 0.0	https://aitopics.org/misc/brief-history
+Document ID: 56 <TITLE>	Score(BM25/TfIdf): 10.0 / 0.0	https://aitopics.org/misc/brief-history#
+Document ID: 50 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search
+Document ID: 51 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search#
+Document ID: 52 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search#help
+Document ID: 53 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about#
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts
+Document ID: 58 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#
+Document ID: 59 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#help
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "department" 
+10 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 50 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search
+Document ID: 51 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search#
+Document ID: 52 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search#help
+Document ID: 53 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about#
+Document ID: 55 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/brief-history
+Document ID: 56 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/brief-history#
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts
+Document ID: 58 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#
+Document ID: 59 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#help
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "dept" 
+10 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 50 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search
+Document ID: 51 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search#
+Document ID: 52 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search#help
+Document ID: 53 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about#
+Document ID: 55 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/brief-history
+Document ID: 56 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/brief-history#
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts
+Document ID: 58 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#
+Document ID: 59 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#help
+
+DISPLAYING RESULTS FROM QUERY: 
+"ai" , "department" 
+10 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 55 <TITLE>	Score(BM25/TfIdf): 10.0 / 0.0	https://aitopics.org/misc/brief-history
+Document ID: 56 <TITLE>	Score(BM25/TfIdf): 10.0 / 0.0	https://aitopics.org/misc/brief-history#
+Document ID: 50 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search
+Document ID: 51 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search#
+Document ID: 52 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search#help
+Document ID: 53 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about#
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts
+Document ID: 58 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#
+Document ID: 59 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#help
+
+DISPLAYING RESULTS FROM QUERY: 
+"ai" , "dept" 
+10 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 55 <TITLE>	Score(BM25/TfIdf): 10.0 / 0.0	https://aitopics.org/misc/brief-history
+Document ID: 56 <TITLE>	Score(BM25/TfIdf): 10.0 / 0.0	https://aitopics.org/misc/brief-history#
+Document ID: 50 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search
+Document ID: 51 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search#
+Document ID: 52 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search#help
+Document ID: 53 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about#
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts
+Document ID: 58 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#
+Document ID: 59 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#help
+
+DISPLAYING RESULTS FROM QUERY: 
+"a.i." , "department" 
+KEYWORDS NOT FOUND
+
+DISPLAYING RESULTS FROM QUERY: 
+"a.i." , "dept" 
+KEYWORDS NOT FOUND
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "researcher" 
+10 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 50 <TEXT>	Score(BM25/TfIdf): 1.6898906263045042 / 0.0	https://aitopics.org/search
+Document ID: 51 <TEXT>	Score(BM25/TfIdf): 1.6898906263045042 / 0.0	https://aitopics.org/search#
+Document ID: 52 <TEXT>	Score(BM25/TfIdf): 1.6898906263045042 / 0.0	https://aitopics.org/search#help
+Document ID: 53 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about#
+Document ID: 55 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/brief-history
+Document ID: 56 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/brief-history#
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts
+Document ID: 58 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#
+Document ID: 59 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#help
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "researchers" 
+10 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 50 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search
+Document ID: 51 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search#
+Document ID: 52 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search#help
+Document ID: 53 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about#
+Document ID: 55 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/brief-history
+Document ID: 56 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/brief-history#
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts
+Document ID: 58 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#
+Document ID: 59 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#help
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "research" 
+10 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 0.3596307280514756 / 0.0	https://aitopics.org/class/AI-Alerts
+Document ID: 58 <TEXT>	Score(BM25/TfIdf): 0.3596307280514756 / 0.0	https://aitopics.org/class/AI-Alerts#
+Document ID: 59 <TEXT>	Score(BM25/TfIdf): 0.3596307280514756 / 0.0	https://aitopics.org/class/AI-Alerts#help
+Document ID: 53 <TEXT>	Score(BM25/TfIdf): 0.34267551921835065 / 0.0	https://aitopics.org/misc/about
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 0.34267551921835065 / 0.0	https://aitopics.org/misc/about#
+Document ID: 50 <TEXT>	Score(BM25/TfIdf): 0.33843367790256457 / 0.0	https://aitopics.org/search
+Document ID: 51 <TEXT>	Score(BM25/TfIdf): 0.33843367790256457 / 0.0	https://aitopics.org/search#
+Document ID: 52 <TEXT>	Score(BM25/TfIdf): 0.33843367790256457 / 0.0	https://aitopics.org/search#help
+Document ID: 55 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/brief-history
+Document ID: 56 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/brief-history#
+
+DISPLAYING RESULTS FROM QUERY: 
+"artificial" , "intelligence" , "ai" 
+10 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 55 <TITLE>	Score(BM25/TfIdf): 10.0 / 0.0	https://aitopics.org/misc/brief-history
+Document ID: 56 <TITLE>	Score(BM25/TfIdf): 10.0 / 0.0	https://aitopics.org/misc/brief-history#
+Document ID: 50 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search
+Document ID: 51 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search#
+Document ID: 52 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/search#help
+Document ID: 53 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/misc/about#
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts
+Document ID: 58 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#
+Document ID: 59 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://aitopics.org/class/AI-Alerts#help

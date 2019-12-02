@@ -1,15 +1,135 @@
 
 DISPLAYING RESULTS FROM QUERY: 
 "artificial" , "intelligence" , "ai" , "a.i" , "research" , "researcher" , "researchers" 
-3 MATCHES AT THE FOLLOWING DOCUMENTS:
+100 MATCHES AT THE FOLLOWING DOCUMENTS:
 ORDERED BY BM25 VALUE:
-Document ID: 0 <TEXT>	Score(BM25/TfIdf): 13.098234761120771 / 1.0986122886681098	https://www.concordia.ca/research.html
-Document ID: 1 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/events/cancelled-classes.html
-Document ID: 2 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/students/registration.html
+Document ID: 64 <TITLE>	Score(BM25/TfIdf): 20.028461472547495 / 8.829099652758885	https://www.concordia.ca/next-gen/digital-strategy/projects/ask-us-anything-ai.html
+Document ID: 17 <TEXT>	Score(BM25/TfIdf): 18.252960616800685 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html
+Document ID: 41 <TEXT>	Score(BM25/TfIdf): 18.252960616800685 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#cities
+Document ID: 42 <TEXT>	Score(BM25/TfIdf): 18.252960616800685 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#arts
+Document ID: 43 <TEXT>	Score(BM25/TfIdf): 18.252960616800685 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#bio
+Document ID: 44 <TEXT>	Score(BM25/TfIdf): 18.252960616800685 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#aero
+Document ID: 45 <TEXT>	Score(BM25/TfIdf): 18.252960616800685 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#ai
+Document ID: 6 <TEXT>	Score(BM25/TfIdf): 17.648109280396188 / 3.2188758248682006	https://www.concordia.ca/ginacody/research.html
+Document ID: 0 <TEXT>	Score(BM25/TfIdf): 13.00564634581568 / 2.207274913189721	https://www.concordia.ca/research.html
+Document ID: 15 <TEXT>	Score(BM25/TfIdf): 12.080486054765657 / 1.5141277326297755	https://www.concordia.ca/research/units.html
+Document ID: 8 <TEXT>	Score(BM25/TfIdf): 10.790122366105212 / 0.0	https://www.concordia.ca/ginacody/research/expertise.html
+Document ID: 14 <TEXT>	Score(BM25/TfIdf): 10.666503359708688 / 0.0	https://www.concordia.ca/research/for-researchers.html
+Document ID: 34 <TITLE>	Score(BM25/TfIdf): 10.659540402876658 / 0.0	https://www.concordia.ca/research/for-researchers/assist-u.html
+Document ID: 18 <TITLE>	Score(BM25/TfIdf): 10.648325995352998 / 0.0	https://www.concordia.ca/research/strategic-research-plan.html
+Document ID: 62 <TEXT>	Score(BM25/TfIdf): 7.032850318369833 / 4.414549826379442	https://www.concordia.ca/next-gen/digital-strategy/projects.html
+Document ID: 65 <TEXT>	Score(BM25/TfIdf): 5.781536286657374 / 2.207274913189721	https://www.concordia.ca/next-gen/digital-strategy/projects/ar-vr-simulations.html
+Document ID: 74 <TEXT>	Score(BM25/TfIdf): 5.3313782032669454 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/hybrid-minds-hybrid-bodies.html
+Document ID: 94 <TEXT>	Score(BM25/TfIdf): 4.49366936068234 / 4.828313737302301	https://www.concordia.ca/ginacody/computer-science-software-eng/about/faculty-members.html
+Document ID: 92 <TEXT>	Score(BM25/TfIdf): 3.9572423962126826 / 1.6094379124341003	https://www.concordia.ca/ginacody/computer-science-software-eng.html
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 3.916644337072272 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html
+Document ID: 77 <TEXT>	Score(BM25/TfIdf): 3.916644337072272 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html#
+Document ID: 79 <TEXT>	Score(BM25/TfIdf): 3.916644337072272 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html#upcoming
+Document ID: 56 <TEXT>	Score(BM25/TfIdf): 3.442331714997891 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/past-programming.html
+Document ID: 97 <TEXT>	Score(BM25/TfIdf): 3.3497663520546572 / 1.6094379124341003	https://www.concordia.ca/ginacody/computer-science-software-eng/programs.html
+Document ID: 75 <TEXT>	Score(BM25/TfIdf): 3.132119098411076 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/queering-the-map.html
+Document ID: 7 <TEXT>	Score(BM25/TfIdf): 3.0672711553208565 / 6.056510930519102	https://www.concordia.ca/ginacody/research/centres.html
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 3.0567838722831127 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/space-lab.html
+Document ID: 30 <TEXT>	Score(BM25/TfIdf): 3.0359038771145364 / 0.0	https://www.concordia.ca/research/for-researchers/grants.html
+Document ID: 35 <TEXT>	Score(BM25/TfIdf): 3.0359038771145364 / 0.0	https://www.concordia.ca/research/for-researchers/grants.html#
+Document ID: 49 <TEXT>	Score(BM25/TfIdf): 2.9432466820480543 / 2.207274913189721	https://www.concordia.ca/next-gen/discovery.html
+Document ID: 26 <TEXT>	Score(BM25/TfIdf): 2.799622571091871 / 0.0	https://www.concordia.ca/research/for-researchers/faq.html#ethics
+Document ID: 27 <TEXT>	Score(BM25/TfIdf): 2.799622571091871 / 0.0	https://www.concordia.ca/research/for-researchers/faq.html#grant
+Document ID: 28 <TEXT>	Score(BM25/TfIdf): 2.799622571091871 / 0.0	https://www.concordia.ca/research/for-researchers/faq.html#conrad
+Document ID: 31 <TEXT>	Score(BM25/TfIdf): 2.799622571091871 / 0.0	https://www.concordia.ca/research/for-researchers/faq.html#content-main_accordion_panel_873051867
+Document ID: 32 <TEXT>	Score(BM25/TfIdf): 2.799622571091871 / 0.0	https://www.concordia.ca/research/for-researchers/faq.html
+Document ID: 9 <TEXT>	Score(BM25/TfIdf): 2.625711010487736 / 0.0	https://www.concordia.ca/ginacody/alumni.html
+Document ID: 1 <TEXT>	Score(BM25/TfIdf): 2.604912755494228 / 0.0	https://www.concordia.ca/ginacody.html
+Document ID: 20 <TEXT>	Score(BM25/TfIdf): 2.215741429934284 / 0.0	https://www.concordia.ca/research/for-researchers/partnerships.html
+Document ID: 21 <TEXT>	Score(BM25/TfIdf): 2.215741429934284 / 0.0	https://www.concordia.ca/research/for-researchers/partnerships.html#tab0
+Document ID: 22 <TEXT>	Score(BM25/TfIdf): 2.215741429934284 / 0.0	https://www.concordia.ca/research/for-researchers/partnerships.html#RPForms
+Document ID: 23 <TEXT>	Score(BM25/TfIdf): 2.215741429934284 / 0.0	https://www.concordia.ca/research/for-researchers/partnerships.html#tab2
+Document ID: 98 <TEXT>	Score(BM25/TfIdf): 1.9763422050811763 / 0.0	https://www.concordia.ca/ginacody/computer-science-software-eng/programs/computer-science.html
+Document ID: 46 <TEXT>	Score(BM25/TfIdf): 0.8152799585902292 / 0.0	https://www.concordia.ca/next-gen/cities.html
+Document ID: 37 <TEXT>	Score(BM25/TfIdf): 0.7881173077105449 / 0.0	https://www.concordia.ca/research/for-researchers/funding/internal-awards.html
+Document ID: 38 <TEXT>	Score(BM25/TfIdf): 0.7722190520145991 / 0.0	https://www.concordia.ca/research/for-researchers/funding/external-awards.html
+Document ID: 52 <TEXT>	Score(BM25/TfIdf): 0.7363396582020661 / 0.0	https://www.concordia.ca/next-gen/spaces.html
+Document ID: 19 <TEXT>	Score(BM25/TfIdf): 0.6984142931441433 / 0.0	https://www.concordia.ca/research/for-researchers/conrad.html
+Document ID: 36 <TEXT>	Score(BM25/TfIdf): 0.6984142931441433 / 0.0	https://www.concordia.ca/research/for-researchers/conrad.html#faq
+Document ID: 24 <TEXT>	Score(BM25/TfIdf): 0.6714616550732546 / 0.0	https://www.concordia.ca/research/for-researchers/development-facilitation.html
+Document ID: 87 <TEXT>	Score(BM25/TfIdf): 0.6637463654596356 / 0.0	https://www.concordia.ca/research/gemlab.html
+Document ID: 25 <TEXT>	Score(BM25/TfIdf): 0.6444204170677386 / 0.0	https://www.concordia.ca/research/for-researchers/ethics.html
+Document ID: 29 <TEXT>	Score(BM25/TfIdf): 0.6444204170677386 / 0.0	https://www.concordia.ca/research/for-researchers/ethics.html#forms
+Document ID: 16 <TEXT>	Score(BM25/TfIdf): 0.6443126003675432 / 0.0	https://www.concordia.ca/research/for-researchers/funding.html
+Document ID: 39 <TEXT>	Score(BM25/TfIdf): 0.6443126003675432 / 0.0	https://www.concordia.ca/research/funding-opportunities.html
+Document ID: 40 <TEXT>	Score(BM25/TfIdf): 0.6443126003675432 / 0.0	https://www.concordia.ca/research/for-researchers/funding.html#agency
+Document ID: 33 <TEXT>	Score(BM25/TfIdf): 0.5378570408375427 / 0.0	https://www.concordia.ca/research/for-researchers/policies-guidelines.html
+Document ID: 50 <TEXT>	Score(BM25/TfIdf): 0.5202724145361802 / 0.0	https://www.concordia.ca/next-gen/engagement.html
+Document ID: 85 <TEXT>	Score(BM25/TfIdf): 0.5126539420123544 / 0.0	https://www.concordia.ca/research/milieux.html
+Document ID: 2 <TEXT>	Score(BM25/TfIdf): 0.5107501873205312 / 0.0	https://www.concordia.ca/ginacody/programs.html
+Document ID: 86 <TEXT>	Score(BM25/TfIdf): 0.5051228242912914 / 0.0	https://www.concordia.ca/research/topological-media-lab.html
+Document ID: 5 <TEXT>	Score(BM25/TfIdf): 0.5019625146502614 / 0.0	https://www.concordia.ca/ginacody/programs/co-op.html
+Document ID: 12 <TEXT>	Score(BM25/TfIdf): 0.500657359905981 / 0.0	https://www.concordia.ca/faculty-staff.html
+Document ID: 58 <TEXT>	Score(BM25/TfIdf): 0.49948851003849626 / 0.0	https://www.concordia.ca/next-gen/4th-space/themes/going-digital.html
+Document ID: 10 <TEXT>	Score(BM25/TfIdf): 0.4914569183763152 / 0.0	https://www.concordia.ca/ginacody/alumni/iron-ring.html
+Document ID: 76 <TEXT>	Score(BM25/TfIdf): 0.49108089931099286 / 0.0	https://www.concordia.ca/next-gen/4th-space/themes/Circus.html
+Document ID: 13 <TEXT>	Score(BM25/TfIdf): 0.4756739639818189 / 0.0	https://www.concordia.ca/campus-life.html
+Document ID: 88 <TEXT>	Score(BM25/TfIdf): 0.4684983470069107 / 0.0	https://www.concordia.ca/research/d3center.html
+Document ID: 78 <TEXT>	Score(BM25/TfIdf): 0.4543483261440309 / 0.0	https://www.concordia.ca/next-gen/4th-space/themes/next-generation-cities.html
+Document ID: 4 <TEXT>	Score(BM25/TfIdf): 0.4348528017611569 / 0.0	https://www.concordia.ca/ginacody/programs/graduate.html
+Document ID: 3 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/programs/undergraduate.html
+Document ID: 11 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/hooshiar.html
+Document ID: 47 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen.html
+Document ID: 48 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/learning.html
+Document ID: 51 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/innovation.html
+Document ID: 53 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/technology-sandbox.html
+Document ID: 55 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/4th-space/about.html
+Document ID: 59 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy.html
+Document ID: 60 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/overview.html
+Document ID: 61 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/governance.html
+Document ID: 63 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/resources.html
+Document ID: 66 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/projects/concordia-hub.html
+Document ID: 67 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/projects/course-recordings.html
+Document ID: 68 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/projects/digital-capabilities.html
+Document ID: 69 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/projects/open-educational-resources.html
+Document ID: 70 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/projects/orientation.html
+Document ID: 71 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/projects/process-review.html
+Document ID: 72 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/projects/innovation-teaching-learning.html
+Document ID: 73 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/resources.html#inventory
+Document ID: 80 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/genome-foundry.html
+Document ID: 81 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/genome-foundry/about.html
+Document ID: 82 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/genome-foundry/people.html
+Document ID: 83 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/genome-foundry/knowledge-sharing.html
+Document ID: 84 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/genome-foundry/equipment.html
+Document ID: 89 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/tittler.html
+Document ID: 90 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/gueheneuc.html
+Document ID: 91 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/computer-science-software-eng/faculty.html?fpid=yanngael-gueheneuc
+Document ID: 93 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/computer-science-software-eng/about.html
+Document ID: 95 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/computer-science-software-eng/about/staff.html
+Document ID: 96 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/computer-science-software-eng/about/jobs.html
+Document ID: 99 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/computer-science-software-eng/programs/software-eng.html
 
 DISPLAYING RESULTS FROM QUERY: 
 "artificial" , "intelligence" 
-KEYWORDS NOT FOUND
+22 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 64 <TEXT>	Score(BM25/TfIdf): 5.6014791660765155 / 11.266065387038703	https://www.concordia.ca/next-gen/digital-strategy/projects/ask-us-anything-ai.html
+Document ID: 17 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html
+Document ID: 41 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#cities
+Document ID: 42 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#arts
+Document ID: 43 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#bio
+Document ID: 44 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#aero
+Document ID: 45 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#ai
+Document ID: 94 <TEXT>	Score(BM25/TfIdf): 4.49366936068234 / 4.828313737302301	https://www.concordia.ca/ginacody/computer-science-software-eng/about/faculty-members.html
+Document ID: 6 <TEXT>	Score(BM25/TfIdf): 4.396129426386196 / 3.2188758248682006	https://www.concordia.ca/ginacody/research.html
+Document ID: 56 <TEXT>	Score(BM25/TfIdf): 3.442331714997891 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/past-programming.html
+Document ID: 92 <TEXT>	Score(BM25/TfIdf): 3.432002841875966 / 1.6094379124341003	https://www.concordia.ca/ginacody/computer-science-software-eng.html
+Document ID: 62 <TEXT>	Score(BM25/TfIdf): 3.400465518464133 / 1.6094379124341003	https://www.concordia.ca/next-gen/digital-strategy/projects.html
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html
+Document ID: 77 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html#
+Document ID: 79 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html#upcoming
+Document ID: 65 <TEXT>	Score(BM25/TfIdf): 3.3876473931925934 / 1.6094379124341003	https://www.concordia.ca/next-gen/digital-strategy/projects/ar-vr-simulations.html
+Document ID: 97 <TEXT>	Score(BM25/TfIdf): 3.3497663520546572 / 1.6094379124341003	https://www.concordia.ca/ginacody/computer-science-software-eng/programs.html
+Document ID: 75 <TEXT>	Score(BM25/TfIdf): 3.132119098411076 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/queering-the-map.html
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 3.0567838722831127 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/space-lab.html
+Document ID: 74 <TEXT>	Score(BM25/TfIdf): 2.971592446461335 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/hybrid-minds-hybrid-bodies.html
+Document ID: 7 <TEXT>	Score(BM25/TfIdf): 2.427667034344805 / 6.056510930519102	https://www.concordia.ca/ginacody/research/centres.html
+Document ID: 15 <TEXT>	Score(BM25/TfIdf): 1.5812565483621301 / 1.5141277326297755	https://www.concordia.ca/research/units.html
 
 DISPLAYING RESULTS FROM QUERY: 
 "a.i." 
@@ -17,38 +137,197 @@ KEYWORDS NOT FOUND
 
 DISPLAYING RESULTS FROM QUERY: 
 "ai" 
-1 MATCHES AT THE FOLLOWING DOCUMENTS:
+11 MATCHES AT THE FOLLOWING DOCUMENTS:
 ORDERED BY BM25 VALUE:
-Document ID: 0 <TEXT>	Score(BM25/TfIdf): 1.3073471545856634 / 1.0986122886681098	https://www.concordia.ca/research.html
+Document ID: 64 <TITLE>	Score(BM25/TfIdf): 13.673547505558599 / 8.829099652758885	https://www.concordia.ca/next-gen/digital-strategy/projects/ask-us-anything-ai.html
+Document ID: 62 <TEXT>	Score(BM25/TfIdf): 3.111971771203429 / 4.414549826379442	https://www.concordia.ca/next-gen/digital-strategy/projects.html
+Document ID: 17 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html
+Document ID: 41 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#cities
+Document ID: 42 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#arts
+Document ID: 43 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#bio
+Document ID: 44 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#aero
+Document ID: 45 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#ai
+Document ID: 49 <TEXT>	Score(BM25/TfIdf): 2.4192934286607337 / 2.207274913189721	https://www.concordia.ca/next-gen/discovery.html
+Document ID: 65 <TEXT>	Score(BM25/TfIdf): 2.393888893464781 / 2.207274913189721	https://www.concordia.ca/next-gen/digital-strategy/projects/ar-vr-simulations.html
+Document ID: 0 <TEXT>	Score(BM25/TfIdf): 2.2773830303094766 / 2.207274913189721	https://www.concordia.ca/research.html
 
 DISPLAYING RESULTS FROM QUERY: 
 "artificial" , "intelligence" , "department" 
-1 MATCHES AT THE FOLLOWING DOCUMENTS:
+49 MATCHES AT THE FOLLOWING DOCUMENTS:
 ORDERED BY BM25 VALUE:
-Document ID: 2 <TEXT>	Score(BM25/TfIdf): 2.0064719676752114 / 19.775021196025975	https://www.concordia.ca/students/registration.html
+Document ID: 92 <TEXT>	Score(BM25/TfIdf): 15.616016557626866 / 1.6094379124341003	https://www.concordia.ca/ginacody/computer-science-software-eng.html
+Document ID: 94 <TEXT>	Score(BM25/TfIdf): 6.481793354285508 / 4.828313737302301	https://www.concordia.ca/ginacody/computer-science-software-eng/about/faculty-members.html
+Document ID: 64 <TEXT>	Score(BM25/TfIdf): 5.6014791660765155 / 11.266065387038703	https://www.concordia.ca/next-gen/digital-strategy/projects/ask-us-anything-ai.html
+Document ID: 97 <TEXT>	Score(BM25/TfIdf): 5.4543240502283314 / 1.6094379124341003	https://www.concordia.ca/ginacody/computer-science-software-eng/programs.html
+Document ID: 17 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html
+Document ID: 41 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#cities
+Document ID: 42 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#arts
+Document ID: 43 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#bio
+Document ID: 44 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#aero
+Document ID: 45 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#ai
+Document ID: 6 <TEXT>	Score(BM25/TfIdf): 4.396129426386196 / 3.2188758248682006	https://www.concordia.ca/ginacody/research.html
+Document ID: 56 <TEXT>	Score(BM25/TfIdf): 3.442331714997891 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/past-programming.html
+Document ID: 62 <TEXT>	Score(BM25/TfIdf): 3.400465518464133 / 1.6094379124341003	https://www.concordia.ca/next-gen/digital-strategy/projects.html
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html
+Document ID: 77 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html#
+Document ID: 79 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html#upcoming
+Document ID: 65 <TEXT>	Score(BM25/TfIdf): 3.3876473931925934 / 1.6094379124341003	https://www.concordia.ca/next-gen/digital-strategy/projects/ar-vr-simulations.html
+Document ID: 75 <TEXT>	Score(BM25/TfIdf): 3.132119098411076 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/queering-the-map.html
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 3.0567838722831127 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/space-lab.html
+Document ID: 74 <TEXT>	Score(BM25/TfIdf): 2.971592446461335 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/hybrid-minds-hybrid-bodies.html
+Document ID: 7 <TEXT>	Score(BM25/TfIdf): 2.427667034344805 / 6.056510930519102	https://www.concordia.ca/ginacody/research/centres.html
+Document ID: 4 <TEXT>	Score(BM25/TfIdf): 2.315435491529206 / 36.119184129778084	https://www.concordia.ca/ginacody/programs/graduate.html
+Document ID: 95 <TEXT>	Score(BM25/TfIdf): 2.2481486262426746 / 15.65164645623717	https://www.concordia.ca/ginacody/computer-science-software-eng/about/staff.html
+Document ID: 91 <TEXT>	Score(BM25/TfIdf): 2.160179267628005 / 8.427809630281553	https://www.concordia.ca/ginacody/computer-science-software-eng/faculty.html?fpid=yanngael-gueheneuc
+Document ID: 93 <TEXT>	Score(BM25/TfIdf): 2.1540112430694225 / 8.427809630281553	https://www.concordia.ca/ginacody/computer-science-software-eng/about.html
+Document ID: 99 <TEXT>	Score(BM25/TfIdf): 2.115420918571372 / 7.223836825955617	https://www.concordia.ca/ginacody/computer-science-software-eng/programs/software-eng.html
+Document ID: 98 <TEXT>	Score(BM25/TfIdf): 2.1077591260376116 / 7.223836825955617	https://www.concordia.ca/ginacody/computer-science-software-eng/programs/computer-science.html
+Document ID: 96 <TEXT>	Score(BM25/TfIdf): 2.086299185125778 / 7.223836825955617	https://www.concordia.ca/ginacody/computer-science-software-eng/about/jobs.html
+Document ID: 5 <TEXT>	Score(BM25/TfIdf): 1.6579837455811526 / 2.4079456086518722	https://www.concordia.ca/ginacody/programs/co-op.html
+Document ID: 15 <TEXT>	Score(BM25/TfIdf): 1.5812565483621301 / 1.5141277326297755	https://www.concordia.ca/research/units.html
+Document ID: 26 <TEXT>	Score(BM25/TfIdf): 1.4005397927873136 / 3.6119184129778086	https://www.concordia.ca/research/for-researchers/faq.html#ethics
+Document ID: 27 <TEXT>	Score(BM25/TfIdf): 1.4005397927873136 / 3.6119184129778086	https://www.concordia.ca/research/for-researchers/faq.html#grant
+Document ID: 28 <TEXT>	Score(BM25/TfIdf): 1.4005397927873136 / 3.6119184129778086	https://www.concordia.ca/research/for-researchers/faq.html#conrad
+Document ID: 31 <TEXT>	Score(BM25/TfIdf): 1.4005397927873136 / 3.6119184129778086	https://www.concordia.ca/research/for-researchers/faq.html#content-main_accordion_panel_873051867
+Document ID: 32 <TEXT>	Score(BM25/TfIdf): 1.4005397927873136 / 3.6119184129778086	https://www.concordia.ca/research/for-researchers/faq.html
+Document ID: 11 <TEXT>	Score(BM25/TfIdf): 1.363013618837794 / 1.2039728043259361	https://www.concordia.ca/next-gen/hooshiar.html
+Document ID: 8 <TEXT>	Score(BM25/TfIdf): 1.3085813426402781 / 1.2039728043259361	https://www.concordia.ca/ginacody/research/expertise.html
+Document ID: 9 <TEXT>	Score(BM25/TfIdf): 1.287391148347457 / 1.2039728043259361	https://www.concordia.ca/ginacody/alumni.html
+Document ID: 2 <TEXT>	Score(BM25/TfIdf): 1.2863666991577907 / 1.2039728043259361	https://www.concordia.ca/ginacody/programs.html
+Document ID: 70 <TEXT>	Score(BM25/TfIdf): 1.2752044322442468 / 1.2039728043259361	https://www.concordia.ca/next-gen/digital-strategy/projects/orientation.html
+Document ID: 34 <TEXT>	Score(BM25/TfIdf): 1.2678699230914694 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/assist-u.html
+Document ID: 10 <TEXT>	Score(BM25/TfIdf): 1.2377750014866948 / 1.2039728043259361	https://www.concordia.ca/ginacody/alumni/iron-ring.html
+Document ID: 30 <TEXT>	Score(BM25/TfIdf): 1.100182045332321 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/grants.html
+Document ID: 35 <TEXT>	Score(BM25/TfIdf): 1.100182045332321 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/grants.html#
+Document ID: 20 <TEXT>	Score(BM25/TfIdf): 1.0693720961025075 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/partnerships.html
+Document ID: 21 <TEXT>	Score(BM25/TfIdf): 1.0693720961025075 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/partnerships.html#tab0
+Document ID: 22 <TEXT>	Score(BM25/TfIdf): 1.0693720961025075 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/partnerships.html#RPForms
+Document ID: 23 <TEXT>	Score(BM25/TfIdf): 1.0693720961025075 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/partnerships.html#tab2
+Document ID: 24 <TEXT>	Score(BM25/TfIdf): 1.0600223947158187 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/development-facilitation.html
 
 DISPLAYING RESULTS FROM QUERY: 
 "artificial" , "intelligence" , "dept" 
-KEYWORDS NOT FOUND
+22 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 64 <TEXT>	Score(BM25/TfIdf): 5.6014791660765155 / 11.266065387038703	https://www.concordia.ca/next-gen/digital-strategy/projects/ask-us-anything-ai.html
+Document ID: 17 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html
+Document ID: 41 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#cities
+Document ID: 42 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#arts
+Document ID: 43 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#bio
+Document ID: 44 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#aero
+Document ID: 45 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#ai
+Document ID: 94 <TEXT>	Score(BM25/TfIdf): 4.49366936068234 / 4.828313737302301	https://www.concordia.ca/ginacody/computer-science-software-eng/about/faculty-members.html
+Document ID: 6 <TEXT>	Score(BM25/TfIdf): 4.396129426386196 / 3.2188758248682006	https://www.concordia.ca/ginacody/research.html
+Document ID: 56 <TEXT>	Score(BM25/TfIdf): 3.442331714997891 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/past-programming.html
+Document ID: 92 <TEXT>	Score(BM25/TfIdf): 3.432002841875966 / 1.6094379124341003	https://www.concordia.ca/ginacody/computer-science-software-eng.html
+Document ID: 62 <TEXT>	Score(BM25/TfIdf): 3.400465518464133 / 1.6094379124341003	https://www.concordia.ca/next-gen/digital-strategy/projects.html
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html
+Document ID: 77 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html#
+Document ID: 79 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html#upcoming
+Document ID: 65 <TEXT>	Score(BM25/TfIdf): 3.3876473931925934 / 1.6094379124341003	https://www.concordia.ca/next-gen/digital-strategy/projects/ar-vr-simulations.html
+Document ID: 97 <TEXT>	Score(BM25/TfIdf): 3.3497663520546572 / 1.6094379124341003	https://www.concordia.ca/ginacody/computer-science-software-eng/programs.html
+Document ID: 75 <TEXT>	Score(BM25/TfIdf): 3.132119098411076 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/queering-the-map.html
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 3.0567838722831127 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/space-lab.html
+Document ID: 74 <TEXT>	Score(BM25/TfIdf): 2.971592446461335 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/hybrid-minds-hybrid-bodies.html
+Document ID: 7 <TEXT>	Score(BM25/TfIdf): 2.427667034344805 / 6.056510930519102	https://www.concordia.ca/ginacody/research/centres.html
+Document ID: 15 <TEXT>	Score(BM25/TfIdf): 1.5812565483621301 / 1.5141277326297755	https://www.concordia.ca/research/units.html
 
 DISPLAYING RESULTS FROM QUERY: 
 "ai" , "department" 
-2 MATCHES AT THE FOLLOWING DOCUMENTS:
+41 MATCHES AT THE FOLLOWING DOCUMENTS:
 ORDERED BY BM25 VALUE:
-Document ID: 2 <TEXT>	Score(BM25/TfIdf): 2.0064719676752114 / 19.775021196025975	https://www.concordia.ca/students/registration.html
-Document ID: 0 <TEXT>	Score(BM25/TfIdf): 1.3073471545856634 / 1.0986122886681098	https://www.concordia.ca/research.html
+Document ID: 64 <TITLE>	Score(BM25/TfIdf): 13.673547505558599 / 8.829099652758885	https://www.concordia.ca/next-gen/digital-strategy/projects/ask-us-anything-ai.html
+Document ID: 92 <TITLE>	Score(BM25/TfIdf): 12.184013715750899 / 9.631782434607489	https://www.concordia.ca/ginacody/computer-science-software-eng.html
+Document ID: 62 <TEXT>	Score(BM25/TfIdf): 3.111971771203429 / 4.414549826379442	https://www.concordia.ca/next-gen/digital-strategy/projects.html
+Document ID: 17 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html
+Document ID: 41 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#cities
+Document ID: 42 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#arts
+Document ID: 43 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#bio
+Document ID: 44 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#aero
+Document ID: 45 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#ai
+Document ID: 49 <TEXT>	Score(BM25/TfIdf): 2.4192934286607337 / 2.207274913189721	https://www.concordia.ca/next-gen/discovery.html
+Document ID: 65 <TEXT>	Score(BM25/TfIdf): 2.393888893464781 / 2.207274913189721	https://www.concordia.ca/next-gen/digital-strategy/projects/ar-vr-simulations.html
+Document ID: 4 <TEXT>	Score(BM25/TfIdf): 2.315435491529206 / 36.119184129778084	https://www.concordia.ca/ginacody/programs/graduate.html
+Document ID: 0 <TEXT>	Score(BM25/TfIdf): 2.2773830303094766 / 2.207274913189721	https://www.concordia.ca/research.html
+Document ID: 95 <TEXT>	Score(BM25/TfIdf): 2.2481486262426746 / 15.65164645623717	https://www.concordia.ca/ginacody/computer-science-software-eng/about/staff.html
+Document ID: 91 <TEXT>	Score(BM25/TfIdf): 2.160179267628005 / 8.427809630281553	https://www.concordia.ca/ginacody/computer-science-software-eng/faculty.html?fpid=yanngael-gueheneuc
+Document ID: 93 <TEXT>	Score(BM25/TfIdf): 2.1540112430694225 / 8.427809630281553	https://www.concordia.ca/ginacody/computer-science-software-eng/about.html
+Document ID: 99 <TEXT>	Score(BM25/TfIdf): 2.115420918571372 / 7.223836825955617	https://www.concordia.ca/ginacody/computer-science-software-eng/programs/software-eng.html
+Document ID: 98 <TEXT>	Score(BM25/TfIdf): 2.1077591260376116 / 7.223836825955617	https://www.concordia.ca/ginacody/computer-science-software-eng/programs/computer-science.html
+Document ID: 97 <TEXT>	Score(BM25/TfIdf): 2.1045576981736747 / 7.223836825955617	https://www.concordia.ca/ginacody/computer-science-software-eng/programs.html
+Document ID: 96 <TEXT>	Score(BM25/TfIdf): 2.086299185125778 / 7.223836825955617	https://www.concordia.ca/ginacody/computer-science-software-eng/about/jobs.html
+Document ID: 94 <TEXT>	Score(BM25/TfIdf): 1.9881239936031683 / 8.427809630281553	https://www.concordia.ca/ginacody/computer-science-software-eng/about/faculty-members.html
+Document ID: 5 <TEXT>	Score(BM25/TfIdf): 1.6579837455811526 / 2.4079456086518722	https://www.concordia.ca/ginacody/programs/co-op.html
+Document ID: 26 <TEXT>	Score(BM25/TfIdf): 1.4005397927873136 / 3.6119184129778086	https://www.concordia.ca/research/for-researchers/faq.html#ethics
+Document ID: 27 <TEXT>	Score(BM25/TfIdf): 1.4005397927873136 / 3.6119184129778086	https://www.concordia.ca/research/for-researchers/faq.html#grant
+Document ID: 28 <TEXT>	Score(BM25/TfIdf): 1.4005397927873136 / 3.6119184129778086	https://www.concordia.ca/research/for-researchers/faq.html#conrad
+Document ID: 31 <TEXT>	Score(BM25/TfIdf): 1.4005397927873136 / 3.6119184129778086	https://www.concordia.ca/research/for-researchers/faq.html#content-main_accordion_panel_873051867
+Document ID: 32 <TEXT>	Score(BM25/TfIdf): 1.4005397927873136 / 3.6119184129778086	https://www.concordia.ca/research/for-researchers/faq.html
+Document ID: 11 <TEXT>	Score(BM25/TfIdf): 1.363013618837794 / 1.2039728043259361	https://www.concordia.ca/next-gen/hooshiar.html
+Document ID: 8 <TEXT>	Score(BM25/TfIdf): 1.3085813426402781 / 1.2039728043259361	https://www.concordia.ca/ginacody/research/expertise.html
+Document ID: 9 <TEXT>	Score(BM25/TfIdf): 1.287391148347457 / 1.2039728043259361	https://www.concordia.ca/ginacody/alumni.html
+Document ID: 2 <TEXT>	Score(BM25/TfIdf): 1.2863666991577907 / 1.2039728043259361	https://www.concordia.ca/ginacody/programs.html
+Document ID: 70 <TEXT>	Score(BM25/TfIdf): 1.2752044322442468 / 1.2039728043259361	https://www.concordia.ca/next-gen/digital-strategy/projects/orientation.html
+Document ID: 34 <TEXT>	Score(BM25/TfIdf): 1.2678699230914694 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/assist-u.html
+Document ID: 10 <TEXT>	Score(BM25/TfIdf): 1.2377750014866948 / 1.2039728043259361	https://www.concordia.ca/ginacody/alumni/iron-ring.html
+Document ID: 30 <TEXT>	Score(BM25/TfIdf): 1.100182045332321 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/grants.html
+Document ID: 35 <TEXT>	Score(BM25/TfIdf): 1.100182045332321 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/grants.html#
+Document ID: 20 <TEXT>	Score(BM25/TfIdf): 1.0693720961025075 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/partnerships.html
+Document ID: 21 <TEXT>	Score(BM25/TfIdf): 1.0693720961025075 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/partnerships.html#tab0
+Document ID: 22 <TEXT>	Score(BM25/TfIdf): 1.0693720961025075 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/partnerships.html#RPForms
+Document ID: 23 <TEXT>	Score(BM25/TfIdf): 1.0693720961025075 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/partnerships.html#tab2
+Document ID: 24 <TEXT>	Score(BM25/TfIdf): 1.0600223947158187 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/development-facilitation.html
 
 DISPLAYING RESULTS FROM QUERY: 
 "ai" , "dept" 
-1 MATCHES AT THE FOLLOWING DOCUMENTS:
+11 MATCHES AT THE FOLLOWING DOCUMENTS:
 ORDERED BY BM25 VALUE:
-Document ID: 0 <TEXT>	Score(BM25/TfIdf): 1.3073471545856634 / 1.0986122886681098	https://www.concordia.ca/research.html
+Document ID: 64 <TITLE>	Score(BM25/TfIdf): 13.673547505558599 / 8.829099652758885	https://www.concordia.ca/next-gen/digital-strategy/projects/ask-us-anything-ai.html
+Document ID: 62 <TEXT>	Score(BM25/TfIdf): 3.111971771203429 / 4.414549826379442	https://www.concordia.ca/next-gen/digital-strategy/projects.html
+Document ID: 17 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html
+Document ID: 41 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#cities
+Document ID: 42 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#arts
+Document ID: 43 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#bio
+Document ID: 44 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#aero
+Document ID: 45 <TEXT>	Score(BM25/TfIdf): 2.8694217687036296 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#ai
+Document ID: 49 <TEXT>	Score(BM25/TfIdf): 2.4192934286607337 / 2.207274913189721	https://www.concordia.ca/next-gen/discovery.html
+Document ID: 65 <TEXT>	Score(BM25/TfIdf): 2.393888893464781 / 2.207274913189721	https://www.concordia.ca/next-gen/digital-strategy/projects/ar-vr-simulations.html
+Document ID: 0 <TEXT>	Score(BM25/TfIdf): 2.2773830303094766 / 2.207274913189721	https://www.concordia.ca/research.html
 
 DISPLAYING RESULTS FROM QUERY: 
 "a.i." , "department" 
-1 MATCHES AT THE FOLLOWING DOCUMENTS:
+30 MATCHES AT THE FOLLOWING DOCUMENTS:
 ORDERED BY BM25 VALUE:
-Document ID: 2 <TEXT>	Score(BM25/TfIdf): 2.0064719676752114 / 19.775021196025975	https://www.concordia.ca/students/registration.html
+Document ID: 92 <TITLE>	Score(BM25/TfIdf): 12.184013715750899 / 9.631782434607489	https://www.concordia.ca/ginacody/computer-science-software-eng.html
+Document ID: 4 <TEXT>	Score(BM25/TfIdf): 2.315435491529206 / 36.119184129778084	https://www.concordia.ca/ginacody/programs/graduate.html
+Document ID: 95 <TEXT>	Score(BM25/TfIdf): 2.2481486262426746 / 15.65164645623717	https://www.concordia.ca/ginacody/computer-science-software-eng/about/staff.html
+Document ID: 91 <TEXT>	Score(BM25/TfIdf): 2.160179267628005 / 8.427809630281553	https://www.concordia.ca/ginacody/computer-science-software-eng/faculty.html?fpid=yanngael-gueheneuc
+Document ID: 93 <TEXT>	Score(BM25/TfIdf): 2.1540112430694225 / 8.427809630281553	https://www.concordia.ca/ginacody/computer-science-software-eng/about.html
+Document ID: 99 <TEXT>	Score(BM25/TfIdf): 2.115420918571372 / 7.223836825955617	https://www.concordia.ca/ginacody/computer-science-software-eng/programs/software-eng.html
+Document ID: 98 <TEXT>	Score(BM25/TfIdf): 2.1077591260376116 / 7.223836825955617	https://www.concordia.ca/ginacody/computer-science-software-eng/programs/computer-science.html
+Document ID: 97 <TEXT>	Score(BM25/TfIdf): 2.1045576981736747 / 7.223836825955617	https://www.concordia.ca/ginacody/computer-science-software-eng/programs.html
+Document ID: 96 <TEXT>	Score(BM25/TfIdf): 2.086299185125778 / 7.223836825955617	https://www.concordia.ca/ginacody/computer-science-software-eng/about/jobs.html
+Document ID: 94 <TEXT>	Score(BM25/TfIdf): 1.9881239936031683 / 8.427809630281553	https://www.concordia.ca/ginacody/computer-science-software-eng/about/faculty-members.html
+Document ID: 5 <TEXT>	Score(BM25/TfIdf): 1.6579837455811526 / 2.4079456086518722	https://www.concordia.ca/ginacody/programs/co-op.html
+Document ID: 26 <TEXT>	Score(BM25/TfIdf): 1.4005397927873136 / 3.6119184129778086	https://www.concordia.ca/research/for-researchers/faq.html#ethics
+Document ID: 27 <TEXT>	Score(BM25/TfIdf): 1.4005397927873136 / 3.6119184129778086	https://www.concordia.ca/research/for-researchers/faq.html#grant
+Document ID: 28 <TEXT>	Score(BM25/TfIdf): 1.4005397927873136 / 3.6119184129778086	https://www.concordia.ca/research/for-researchers/faq.html#conrad
+Document ID: 31 <TEXT>	Score(BM25/TfIdf): 1.4005397927873136 / 3.6119184129778086	https://www.concordia.ca/research/for-researchers/faq.html#content-main_accordion_panel_873051867
+Document ID: 32 <TEXT>	Score(BM25/TfIdf): 1.4005397927873136 / 3.6119184129778086	https://www.concordia.ca/research/for-researchers/faq.html
+Document ID: 11 <TEXT>	Score(BM25/TfIdf): 1.363013618837794 / 1.2039728043259361	https://www.concordia.ca/next-gen/hooshiar.html
+Document ID: 8 <TEXT>	Score(BM25/TfIdf): 1.3085813426402781 / 1.2039728043259361	https://www.concordia.ca/ginacody/research/expertise.html
+Document ID: 9 <TEXT>	Score(BM25/TfIdf): 1.287391148347457 / 1.2039728043259361	https://www.concordia.ca/ginacody/alumni.html
+Document ID: 2 <TEXT>	Score(BM25/TfIdf): 1.2863666991577907 / 1.2039728043259361	https://www.concordia.ca/ginacody/programs.html
+Document ID: 70 <TEXT>	Score(BM25/TfIdf): 1.2752044322442468 / 1.2039728043259361	https://www.concordia.ca/next-gen/digital-strategy/projects/orientation.html
+Document ID: 34 <TEXT>	Score(BM25/TfIdf): 1.2678699230914694 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/assist-u.html
+Document ID: 10 <TEXT>	Score(BM25/TfIdf): 1.2377750014866948 / 1.2039728043259361	https://www.concordia.ca/ginacody/alumni/iron-ring.html
+Document ID: 30 <TEXT>	Score(BM25/TfIdf): 1.100182045332321 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/grants.html
+Document ID: 35 <TEXT>	Score(BM25/TfIdf): 1.100182045332321 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/grants.html#
+Document ID: 20 <TEXT>	Score(BM25/TfIdf): 1.0693720961025075 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/partnerships.html
+Document ID: 21 <TEXT>	Score(BM25/TfIdf): 1.0693720961025075 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/partnerships.html#tab0
+Document ID: 22 <TEXT>	Score(BM25/TfIdf): 1.0693720961025075 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/partnerships.html#RPForms
+Document ID: 23 <TEXT>	Score(BM25/TfIdf): 1.0693720961025075 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/partnerships.html#tab2
+Document ID: 24 <TEXT>	Score(BM25/TfIdf): 1.0600223947158187 / 1.2039728043259361	https://www.concordia.ca/research/for-researchers/development-facilitation.html
 
 DISPLAYING RESULTS FROM QUERY: 
 "a.i." , "dept" 
@@ -56,24 +335,248 @@ KEYWORDS NOT FOUND
 
 DISPLAYING RESULTS FROM QUERY: 
 "artificial" , "intelligence" , "researcher" 
-KEYWORDS NOT FOUND
+36 MATCHES AT THE FOLLOWING DOCUMENTS:
+ORDERED BY BM25 VALUE:
+Document ID: 6 <TEXT>	Score(BM25/TfIdf): 6.975318153143077 / 3.2188758248682006	https://www.concordia.ca/ginacody/research.html
+Document ID: 64 <TEXT>	Score(BM25/TfIdf): 5.6014791660765155 / 11.266065387038703	https://www.concordia.ca/next-gen/digital-strategy/projects/ask-us-anything-ai.html
+Document ID: 74 <TEXT>	Score(BM25/TfIdf): 4.715011940079236 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/hybrid-minds-hybrid-bodies.html
+Document ID: 17 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html
+Document ID: 41 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#cities
+Document ID: 42 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#arts
+Document ID: 43 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#bio
+Document ID: 44 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#aero
+Document ID: 45 <TEXT>	Score(BM25/TfIdf): 4.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#ai
+Document ID: 94 <TEXT>	Score(BM25/TfIdf): 4.49366936068234 / 4.828313737302301	https://www.concordia.ca/ginacody/computer-science-software-eng/about/faculty-members.html
+Document ID: 56 <TEXT>	Score(BM25/TfIdf): 3.442331714997891 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/past-programming.html
+Document ID: 92 <TEXT>	Score(BM25/TfIdf): 3.432002841875966 / 1.6094379124341003	https://www.concordia.ca/ginacody/computer-science-software-eng.html
+Document ID: 62 <TEXT>	Score(BM25/TfIdf): 3.400465518464133 / 1.6094379124341003	https://www.concordia.ca/next-gen/digital-strategy/projects.html
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html
+Document ID: 77 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html#
+Document ID: 79 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html#upcoming
+Document ID: 65 <TEXT>	Score(BM25/TfIdf): 3.3876473931925934 / 1.6094379124341003	https://www.concordia.ca/next-gen/digital-strategy/projects/ar-vr-simulations.html
+Document ID: 97 <TEXT>	Score(BM25/TfIdf): 3.3497663520546572 / 1.6094379124341003	https://www.concordia.ca/ginacody/computer-science-software-eng/programs.html
+Document ID: 75 <TEXT>	Score(BM25/TfIdf): 3.132119098411076 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/queering-the-map.html
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 3.0567838722831127 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/space-lab.html
+Document ID: 7 <TEXT>	Score(BM25/TfIdf): 2.427667034344805 / 6.056510930519102	https://www.concordia.ca/ginacody/research/centres.html
+Document ID: 30 <TEXT>	Score(BM25/TfIdf): 2.298859587660602 / 3.6651629274966204	https://www.concordia.ca/research/for-researchers/grants.html
+Document ID: 35 <TEXT>	Score(BM25/TfIdf): 2.298859587660602 / 3.6651629274966204	https://www.concordia.ca/research/for-researchers/grants.html#
+Document ID: 26 <TEXT>	Score(BM25/TfIdf): 2.1317784374215036 / 5.497744391244931	https://www.concordia.ca/research/for-researchers/faq.html#ethics
+Document ID: 27 <TEXT>	Score(BM25/TfIdf): 2.1317784374215036 / 5.497744391244931	https://www.concordia.ca/research/for-researchers/faq.html#grant
+Document ID: 28 <TEXT>	Score(BM25/TfIdf): 2.1317784374215036 / 5.497744391244931	https://www.concordia.ca/research/for-researchers/faq.html#conrad
+Document ID: 31 <TEXT>	Score(BM25/TfIdf): 2.1317784374215036 / 5.497744391244931	https://www.concordia.ca/research/for-researchers/faq.html#content-main_accordion_panel_873051867
+Document ID: 32 <TEXT>	Score(BM25/TfIdf): 2.1317784374215036 / 5.497744391244931	https://www.concordia.ca/research/for-researchers/faq.html
+Document ID: 98 <TEXT>	Score(BM25/TfIdf): 1.9763422050811763 / 1.8325814637483102	https://www.concordia.ca/ginacody/computer-science-software-eng/programs/computer-science.html
+Document ID: 9 <TEXT>	Score(BM25/TfIdf): 1.9595535269387294 / 1.8325814637483102	https://www.concordia.ca/ginacody/alumni.html
+Document ID: 1 <TEXT>	Score(BM25/TfIdf): 1.9425363515732088 / 1.8325814637483102	https://www.concordia.ca/ginacody.html
+Document ID: 20 <TEXT>	Score(BM25/TfIdf): 1.6277041093667461 / 1.8325814637483102	https://www.concordia.ca/research/for-researchers/partnerships.html
+Document ID: 21 <TEXT>	Score(BM25/TfIdf): 1.6277041093667461 / 1.8325814637483102	https://www.concordia.ca/research/for-researchers/partnerships.html#tab0
+Document ID: 22 <TEXT>	Score(BM25/TfIdf): 1.6277041093667461 / 1.8325814637483102	https://www.concordia.ca/research/for-researchers/partnerships.html#RPForms
+Document ID: 23 <TEXT>	Score(BM25/TfIdf): 1.6277041093667461 / 1.8325814637483102	https://www.concordia.ca/research/for-researchers/partnerships.html#tab2
+Document ID: 15 <TEXT>	Score(BM25/TfIdf): 1.5812565483621301 / 1.5141277326297755	https://www.concordia.ca/research/units.html
 
 DISPLAYING RESULTS FROM QUERY: 
 "artificial" , "intelligence" , "researchers" 
-1 MATCHES AT THE FOLLOWING DOCUMENTS:
+68 MATCHES AT THE FOLLOWING DOCUMENTS:
 ORDERED BY BM25 VALUE:
-Document ID: 0 <TEXT>	Score(BM25/TfIdf): 1.7908876065351076 / 3.295836866004329	https://www.concordia.ca/research.html
+Document ID: 8 <TITLE>	Score(BM25/TfIdf): 10.790122366105212 / 1.912143203771999	https://www.concordia.ca/ginacody/research/expertise.html
+Document ID: 14 <TITLE>	Score(BM25/TfIdf): 10.666503359708688 / 0.9560716018859995	https://www.concordia.ca/research/for-researchers.html
+Document ID: 64 <TEXT>	Score(BM25/TfIdf): 6.354913966988894 / 11.266065387038703	https://www.concordia.ca/next-gen/digital-strategy/projects/ask-us-anything-ai.html
+Document ID: 17 <TEXT>	Score(BM25/TfIdf): 5.383538848097055 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html
+Document ID: 41 <TEXT>	Score(BM25/TfIdf): 5.383538848097055 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#cities
+Document ID: 42 <TEXT>	Score(BM25/TfIdf): 5.383538848097055 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#arts
+Document ID: 43 <TEXT>	Score(BM25/TfIdf): 5.383538848097055 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#bio
+Document ID: 44 <TEXT>	Score(BM25/TfIdf): 5.383538848097055 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#aero
+Document ID: 45 <TEXT>	Score(BM25/TfIdf): 5.383538848097055 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#ai
+Document ID: 6 <TEXT>	Score(BM25/TfIdf): 5.068920553639306 / 3.2188758248682006	https://www.concordia.ca/ginacody/research.html
+Document ID: 94 <TEXT>	Score(BM25/TfIdf): 4.49366936068234 / 4.828313737302301	https://www.concordia.ca/ginacody/computer-science-software-eng/about/faculty-members.html
+Document ID: 92 <TEXT>	Score(BM25/TfIdf): 3.9572423962126826 / 1.6094379124341003	https://www.concordia.ca/ginacody/computer-science-software-eng.html
+Document ID: 62 <TEXT>	Score(BM25/TfIdf): 3.9208785471664043 / 1.6094379124341003	https://www.concordia.ca/next-gen/digital-strategy/projects.html
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 3.916644337072272 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html
+Document ID: 77 <TEXT>	Score(BM25/TfIdf): 3.916644337072272 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html#
+Document ID: 79 <TEXT>	Score(BM25/TfIdf): 3.916644337072272 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html#upcoming
+Document ID: 74 <TEXT>	Score(BM25/TfIdf): 3.587958709649044 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/hybrid-minds-hybrid-bodies.html
+Document ID: 56 <TEXT>	Score(BM25/TfIdf): 3.442331714997891 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/past-programming.html
+Document ID: 65 <TEXT>	Score(BM25/TfIdf): 3.3876473931925934 / 1.6094379124341003	https://www.concordia.ca/next-gen/digital-strategy/projects/ar-vr-simulations.html
+Document ID: 97 <TEXT>	Score(BM25/TfIdf): 3.3497663520546572 / 1.6094379124341003	https://www.concordia.ca/ginacody/computer-science-software-eng/programs.html
+Document ID: 75 <TEXT>	Score(BM25/TfIdf): 3.132119098411076 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/queering-the-map.html
+Document ID: 7 <TEXT>	Score(BM25/TfIdf): 3.0672711553208565 / 6.056510930519102	https://www.concordia.ca/ginacody/research/centres.html
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 3.0567838722831127 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/space-lab.html
+Document ID: 15 <TEXT>	Score(BM25/TfIdf): 2.080486054765657 / 1.5141277326297755	https://www.concordia.ca/research/units.html
+Document ID: 46 <TEXT>	Score(BM25/TfIdf): 0.8152799585902292 / 2.390179004714999	https://www.concordia.ca/next-gen/cities.html
+Document ID: 37 <TEXT>	Score(BM25/TfIdf): 0.7881173077105449 / 2.390179004714999	https://www.concordia.ca/research/for-researchers/funding/internal-awards.html
+Document ID: 38 <TEXT>	Score(BM25/TfIdf): 0.7722190520145991 / 1.912143203771999	https://www.concordia.ca/research/for-researchers/funding/external-awards.html
+Document ID: 30 <TEXT>	Score(BM25/TfIdf): 0.7370442894539341 / 1.912143203771999	https://www.concordia.ca/research/for-researchers/grants.html
+Document ID: 35 <TEXT>	Score(BM25/TfIdf): 0.7370442894539341 / 1.912143203771999	https://www.concordia.ca/research/for-researchers/grants.html#
+Document ID: 52 <TEXT>	Score(BM25/TfIdf): 0.7363396582020661 / 1.4341074028289993	https://www.concordia.ca/next-gen/spaces.html
+Document ID: 0 <TEXT>	Score(BM25/TfIdf): 0.7282633155062038 / 1.4341074028289993	https://www.concordia.ca/research.html
+Document ID: 19 <TEXT>	Score(BM25/TfIdf): 0.6984142931441433 / 1.4341074028289993	https://www.concordia.ca/research/for-researchers/conrad.html
+Document ID: 36 <TEXT>	Score(BM25/TfIdf): 0.6984142931441433 / 1.4341074028289993	https://www.concordia.ca/research/for-researchers/conrad.html#faq
+Document ID: 24 <TEXT>	Score(BM25/TfIdf): 0.6714616550732546 / 1.4341074028289993	https://www.concordia.ca/research/for-researchers/development-facilitation.html
+Document ID: 26 <TEXT>	Score(BM25/TfIdf): 0.6678441336703673 / 2.390179004714999	https://www.concordia.ca/research/for-researchers/faq.html#ethics
+Document ID: 27 <TEXT>	Score(BM25/TfIdf): 0.6678441336703673 / 2.390179004714999	https://www.concordia.ca/research/for-researchers/faq.html#grant
+Document ID: 28 <TEXT>	Score(BM25/TfIdf): 0.6678441336703673 / 2.390179004714999	https://www.concordia.ca/research/for-researchers/faq.html#conrad
+Document ID: 31 <TEXT>	Score(BM25/TfIdf): 0.6678441336703673 / 2.390179004714999	https://www.concordia.ca/research/for-researchers/faq.html#content-main_accordion_panel_873051867
+Document ID: 32 <TEXT>	Score(BM25/TfIdf): 0.6678441336703673 / 2.390179004714999	https://www.concordia.ca/research/for-researchers/faq.html
+Document ID: 9 <TEXT>	Score(BM25/TfIdf): 0.6661574835490064 / 0.9560716018859995	https://www.concordia.ca/ginacody/alumni.html
+Document ID: 87 <TEXT>	Score(BM25/TfIdf): 0.6637463654596356 / 0.9560716018859995	https://www.concordia.ca/research/gemlab.html
+Document ID: 1 <TEXT>	Score(BM25/TfIdf): 0.6623764039210193 / 0.9560716018859995	https://www.concordia.ca/ginacody.html
+Document ID: 34 <TEXT>	Score(BM25/TfIdf): 0.6595404028766579 / 0.9560716018859995	https://www.concordia.ca/research/for-researchers/assist-u.html
+Document ID: 18 <TEXT>	Score(BM25/TfIdf): 0.6483259953529976 / 0.9560716018859995	https://www.concordia.ca/research/strategic-research-plan.html
+Document ID: 25 <TEXT>	Score(BM25/TfIdf): 0.6444204170677386 / 0.9560716018859995	https://www.concordia.ca/research/for-researchers/ethics.html
+Document ID: 29 <TEXT>	Score(BM25/TfIdf): 0.6444204170677386 / 0.9560716018859995	https://www.concordia.ca/research/for-researchers/ethics.html#forms
+Document ID: 16 <TEXT>	Score(BM25/TfIdf): 0.6443126003675432 / 0.9560716018859995	https://www.concordia.ca/research/for-researchers/funding.html
+Document ID: 39 <TEXT>	Score(BM25/TfIdf): 0.6443126003675432 / 0.9560716018859995	https://www.concordia.ca/research/funding-opportunities.html
+Document ID: 40 <TEXT>	Score(BM25/TfIdf): 0.6443126003675432 / 0.9560716018859995	https://www.concordia.ca/research/for-researchers/funding.html#agency
+Document ID: 20 <TEXT>	Score(BM25/TfIdf): 0.588037320567538 / 0.9560716018859995	https://www.concordia.ca/research/for-researchers/partnerships.html
+Document ID: 21 <TEXT>	Score(BM25/TfIdf): 0.588037320567538 / 0.9560716018859995	https://www.concordia.ca/research/for-researchers/partnerships.html#tab0
+Document ID: 22 <TEXT>	Score(BM25/TfIdf): 0.588037320567538 / 0.9560716018859995	https://www.concordia.ca/research/for-researchers/partnerships.html#RPForms
+Document ID: 23 <TEXT>	Score(BM25/TfIdf): 0.588037320567538 / 0.9560716018859995	https://www.concordia.ca/research/for-researchers/partnerships.html#tab2
+Document ID: 33 <TEXT>	Score(BM25/TfIdf): 0.5378570408375427 / 0.9560716018859995	https://www.concordia.ca/research/for-researchers/policies-guidelines.html
+Document ID: 49 <TEXT>	Score(BM25/TfIdf): 0.5239532533873206 / 0.47803580094299974	https://www.concordia.ca/next-gen/discovery.html
+Document ID: 50 <TEXT>	Score(BM25/TfIdf): 0.5202724145361802 / 0.47803580094299974	https://www.concordia.ca/next-gen/engagement.html
+Document ID: 85 <TEXT>	Score(BM25/TfIdf): 0.5126539420123544 / 0.47803580094299974	https://www.concordia.ca/research/milieux.html
+Document ID: 2 <TEXT>	Score(BM25/TfIdf): 0.5107501873205312 / 0.47803580094299974	https://www.concordia.ca/ginacody/programs.html
+Document ID: 86 <TEXT>	Score(BM25/TfIdf): 0.5051228242912914 / 0.47803580094299974	https://www.concordia.ca/research/topological-media-lab.html
+Document ID: 5 <TEXT>	Score(BM25/TfIdf): 0.5019625146502614 / 0.47803580094299974	https://www.concordia.ca/ginacody/programs/co-op.html
+Document ID: 12 <TEXT>	Score(BM25/TfIdf): 0.500657359905981 / 0.47803580094299974	https://www.concordia.ca/faculty-staff.html
+Document ID: 58 <TEXT>	Score(BM25/TfIdf): 0.49948851003849626 / 0.47803580094299974	https://www.concordia.ca/next-gen/4th-space/themes/going-digital.html
+Document ID: 10 <TEXT>	Score(BM25/TfIdf): 0.4914569183763152 / 0.47803580094299974	https://www.concordia.ca/ginacody/alumni/iron-ring.html
+Document ID: 76 <TEXT>	Score(BM25/TfIdf): 0.49108089931099286 / 0.47803580094299974	https://www.concordia.ca/next-gen/4th-space/themes/Circus.html
+Document ID: 13 <TEXT>	Score(BM25/TfIdf): 0.4756739639818189 / 0.47803580094299974	https://www.concordia.ca/campus-life.html
+Document ID: 88 <TEXT>	Score(BM25/TfIdf): 0.4684983470069107 / 0.47803580094299974	https://www.concordia.ca/research/d3center.html
+Document ID: 78 <TEXT>	Score(BM25/TfIdf): 0.4543483261440309 / 0.47803580094299974	https://www.concordia.ca/next-gen/4th-space/themes/next-generation-cities.html
+Document ID: 4 <TEXT>	Score(BM25/TfIdf): 0.4348528017611569 / 0.47803580094299974	https://www.concordia.ca/ginacody/programs/graduate.html
 
 DISPLAYING RESULTS FROM QUERY: 
 "artificial" , "intelligence" , "research" 
-3 MATCHES AT THE FOLLOWING DOCUMENTS:
+100 MATCHES AT THE FOLLOWING DOCUMENTS:
 ORDERED BY BM25 VALUE:
+Document ID: 17 <TEXT>	Score(BM25/TfIdf): 14.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html
+Document ID: 41 <TEXT>	Score(BM25/TfIdf): 14.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#cities
+Document ID: 42 <TEXT>	Score(BM25/TfIdf): 14.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#arts
+Document ID: 43 <TEXT>	Score(BM25/TfIdf): 14.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#bio
+Document ID: 44 <TEXT>	Score(BM25/TfIdf): 14.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#aero
+Document ID: 45 <TEXT>	Score(BM25/TfIdf): 14.59690260077358 / 4.828313737302301	https://www.concordia.ca/research/spotlights.html#ai
+Document ID: 6 <TEXT>	Score(BM25/TfIdf): 14.396129426386196 / 3.2188758248682006	https://www.concordia.ca/ginacody/research.html
+Document ID: 15 <TEXT>	Score(BM25/TfIdf): 11.58125654836213 / 1.5141277326297755	https://www.concordia.ca/research/units.html
 Document ID: 0 <TITLE>	Score(BM25/TfIdf): 10.0 / 0.0	https://www.concordia.ca/research.html
-Document ID: 1 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/events/cancelled-classes.html
-Document ID: 2 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/students/registration.html
+Document ID: 18 <TITLE>	Score(BM25/TfIdf): 10.0 / 0.0	https://www.concordia.ca/research/strategic-research-plan.html
+Document ID: 34 <TITLE>	Score(BM25/TfIdf): 10.0 / 0.0	https://www.concordia.ca/research/for-researchers/assist-u.html
+Document ID: 64 <TEXT>	Score(BM25/TfIdf): 5.6014791660765155 / 11.266065387038703	https://www.concordia.ca/next-gen/digital-strategy/projects/ask-us-anything-ai.html
+Document ID: 94 <TEXT>	Score(BM25/TfIdf): 4.49366936068234 / 4.828313737302301	https://www.concordia.ca/ginacody/computer-science-software-eng/about/faculty-members.html
+Document ID: 56 <TEXT>	Score(BM25/TfIdf): 3.442331714997891 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/past-programming.html
+Document ID: 92 <TEXT>	Score(BM25/TfIdf): 3.432002841875966 / 1.6094379124341003	https://www.concordia.ca/ginacody/computer-science-software-eng.html
+Document ID: 62 <TEXT>	Score(BM25/TfIdf): 3.400465518464133 / 1.6094379124341003	https://www.concordia.ca/next-gen/digital-strategy/projects.html
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html
+Document ID: 77 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html#
+Document ID: 79 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html#upcoming
+Document ID: 65 <TEXT>	Score(BM25/TfIdf): 3.3876473931925934 / 1.6094379124341003	https://www.concordia.ca/next-gen/digital-strategy/projects/ar-vr-simulations.html
+Document ID: 97 <TEXT>	Score(BM25/TfIdf): 3.3497663520546572 / 1.6094379124341003	https://www.concordia.ca/ginacody/computer-science-software-eng/programs.html
+Document ID: 75 <TEXT>	Score(BM25/TfIdf): 3.132119098411076 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/queering-the-map.html
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 3.0567838722831127 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/space-lab.html
+Document ID: 74 <TEXT>	Score(BM25/TfIdf): 2.971592446461335 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/hybrid-minds-hybrid-bodies.html
+Document ID: 7 <TEXT>	Score(BM25/TfIdf): 2.427667034344805 / 6.056510930519102	https://www.concordia.ca/ginacody/research/centres.html
+Document ID: 1 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody.html
+Document ID: 2 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/programs.html
+Document ID: 3 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/programs/undergraduate.html
+Document ID: 4 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/programs/graduate.html
+Document ID: 5 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/programs/co-op.html
+Document ID: 8 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/research/expertise.html
+Document ID: 9 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/alumni.html
+Document ID: 10 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/alumni/iron-ring.html
+Document ID: 11 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/hooshiar.html
+Document ID: 12 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/faculty-staff.html
+Document ID: 13 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/campus-life.html
+Document ID: 14 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers.html
+Document ID: 16 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/funding.html
+Document ID: 19 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/conrad.html
+Document ID: 20 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/partnerships.html
+Document ID: 21 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/partnerships.html#tab0
+Document ID: 22 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/partnerships.html#RPForms
+Document ID: 23 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/partnerships.html#tab2
+Document ID: 24 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/development-facilitation.html
+Document ID: 25 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/ethics.html
+Document ID: 26 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/faq.html#ethics
+Document ID: 27 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/faq.html#grant
+Document ID: 28 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/faq.html#conrad
+Document ID: 29 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/ethics.html#forms
+Document ID: 30 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/grants.html
+Document ID: 31 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/faq.html#content-main_accordion_panel_873051867
+Document ID: 32 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/faq.html
+Document ID: 33 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/policies-guidelines.html
+Document ID: 35 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/grants.html#
+Document ID: 36 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/conrad.html#faq
+Document ID: 37 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/funding/internal-awards.html
+Document ID: 38 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/funding/external-awards.html
+Document ID: 39 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/funding-opportunities.html
+Document ID: 40 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/for-researchers/funding.html#agency
+Document ID: 46 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/cities.html
+Document ID: 47 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen.html
+Document ID: 48 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/learning.html
+Document ID: 49 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/discovery.html
+Document ID: 50 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/engagement.html
+Document ID: 51 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/innovation.html
+Document ID: 52 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/spaces.html
+Document ID: 53 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/technology-sandbox.html
+Document ID: 55 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/4th-space/about.html
+Document ID: 58 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/4th-space/themes/going-digital.html
+Document ID: 59 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy.html
+Document ID: 60 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/overview.html
+Document ID: 61 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/governance.html
+Document ID: 63 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/resources.html
+Document ID: 66 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/projects/concordia-hub.html
+Document ID: 67 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/projects/course-recordings.html
+Document ID: 68 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/projects/digital-capabilities.html
+Document ID: 69 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/projects/open-educational-resources.html
+Document ID: 70 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/projects/orientation.html
+Document ID: 71 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/projects/process-review.html
+Document ID: 72 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/projects/innovation-teaching-learning.html
+Document ID: 73 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/digital-strategy/resources.html#inventory
+Document ID: 76 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/4th-space/themes/Circus.html
+Document ID: 78 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/4th-space/themes/next-generation-cities.html
+Document ID: 80 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/genome-foundry.html
+Document ID: 81 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/genome-foundry/about.html
+Document ID: 82 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/genome-foundry/people.html
+Document ID: 83 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/genome-foundry/knowledge-sharing.html
+Document ID: 84 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/genome-foundry/equipment.html
+Document ID: 85 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/milieux.html
+Document ID: 86 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/topological-media-lab.html
+Document ID: 87 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/gemlab.html
+Document ID: 88 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/research/d3center.html
+Document ID: 89 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/tittler.html
+Document ID: 90 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/next-gen/gueheneuc.html
+Document ID: 91 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/computer-science-software-eng/faculty.html?fpid=yanngael-gueheneuc
+Document ID: 93 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/computer-science-software-eng/about.html
+Document ID: 95 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/computer-science-software-eng/about/staff.html
+Document ID: 96 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/computer-science-software-eng/about/jobs.html
+Document ID: 98 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/computer-science-software-eng/programs/computer-science.html
+Document ID: 99 <TEXT>	Score(BM25/TfIdf): 0.0 / 0.0	https://www.concordia.ca/ginacody/computer-science-software-eng/programs/software-eng.html
 
 DISPLAYING RESULTS FROM QUERY: 
 "artificial" , "intelligence" , "ai" 
-1 MATCHES AT THE FOLLOWING DOCUMENTS:
+24 MATCHES AT THE FOLLOWING DOCUMENTS:
 ORDERED BY BM25 VALUE:
-Document ID: 0 <TEXT>	Score(BM25/TfIdf): 1.3073471545856634 / 1.0986122886681098	https://www.concordia.ca/research.html
+Document ID: 64 <TITLE>	Score(BM25/TfIdf): 19.275026671635114 / 8.829099652758885	https://www.concordia.ca/next-gen/digital-strategy/projects/ask-us-anything-ai.html
+Document ID: 17 <TEXT>	Score(BM25/TfIdf): 7.466324369477211 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html
+Document ID: 41 <TEXT>	Score(BM25/TfIdf): 7.466324369477211 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#cities
+Document ID: 42 <TEXT>	Score(BM25/TfIdf): 7.466324369477211 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#arts
+Document ID: 43 <TEXT>	Score(BM25/TfIdf): 7.466324369477211 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#bio
+Document ID: 44 <TEXT>	Score(BM25/TfIdf): 7.466324369477211 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#aero
+Document ID: 45 <TEXT>	Score(BM25/TfIdf): 7.466324369477211 / 4.414549826379442	https://www.concordia.ca/research/spotlights.html#ai
+Document ID: 62 <TEXT>	Score(BM25/TfIdf): 6.512437289667562 / 4.414549826379442	https://www.concordia.ca/next-gen/digital-strategy/projects.html
+Document ID: 65 <TEXT>	Score(BM25/TfIdf): 5.781536286657374 / 2.207274913189721	https://www.concordia.ca/next-gen/digital-strategy/projects/ar-vr-simulations.html
+Document ID: 94 <TEXT>	Score(BM25/TfIdf): 4.49366936068234 / 4.828313737302301	https://www.concordia.ca/ginacody/computer-science-software-eng/about/faculty-members.html
+Document ID: 6 <TEXT>	Score(BM25/TfIdf): 4.396129426386196 / 3.2188758248682006	https://www.concordia.ca/ginacody/research.html
+Document ID: 56 <TEXT>	Score(BM25/TfIdf): 3.442331714997891 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/past-programming.html
+Document ID: 92 <TEXT>	Score(BM25/TfIdf): 3.432002841875966 / 1.6094379124341003	https://www.concordia.ca/ginacody/computer-science-software-eng.html
+Document ID: 54 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html
+Document ID: 77 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html#
+Document ID: 79 <TEXT>	Score(BM25/TfIdf): 3.3967933094809104 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space.html#upcoming
+Document ID: 97 <TEXT>	Score(BM25/TfIdf): 3.3497663520546572 / 1.6094379124341003	https://www.concordia.ca/ginacody/computer-science-software-eng/programs.html
+Document ID: 75 <TEXT>	Score(BM25/TfIdf): 3.132119098411076 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/queering-the-map.html
+Document ID: 57 <TEXT>	Score(BM25/TfIdf): 3.0567838722831127 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/space-lab.html
+Document ID: 74 <TEXT>	Score(BM25/TfIdf): 2.971592446461335 / 1.6094379124341003	https://www.concordia.ca/next-gen/4th-space/themes/hybrid-minds-hybrid-bodies.html
+Document ID: 7 <TEXT>	Score(BM25/TfIdf): 2.427667034344805 / 6.056510930519102	https://www.concordia.ca/ginacody/research/centres.html
+Document ID: 49 <TEXT>	Score(BM25/TfIdf): 2.4192934286607337 / 2.207274913189721	https://www.concordia.ca/next-gen/discovery.html
+Document ID: 0 <TEXT>	Score(BM25/TfIdf): 2.2773830303094766 / 2.207274913189721	https://www.concordia.ca/research.html
+Document ID: 15 <TEXT>	Score(BM25/TfIdf): 1.5812565483621301 / 1.5141277326297755	https://www.concordia.ca/research/units.html

@@ -75,7 +75,7 @@ public class Webcrawler {
 		if (!htmlLinks.contains(url) && counter < max) {
 			try {
 				counter++;
-				//Add the URL and print it if it is a new entry
+				//ADD URL TO THE URL IF IT IS A NEW ENTRY
 				if (htmlLinks.add(url)) 
 					System.out.println(counter + "\t" + url);
 
@@ -92,11 +92,12 @@ public class Webcrawler {
 
 				//PREPROCESS
 				//Remove URL and TITLE from the text
-				if ( text !=null ){
-					text = text.replaceFirst(title,  " ");
-					text = text.replaceFirst("(http://).*(.html)",  "");
-					text = text.replaceFirst("(https://).*(.html)",  "");
-				}//close if text is not null
+				if ( text !=null )
+					if ( text.length() >0){
+						text = text.replaceFirst(title,  " ");
+						text = text.replaceFirst("(http://).*(.html)",  "");
+						text = text.replaceFirst("(https://).*(.html)",  "");
+					}//close if text is not null
 
 				//CREATE TOKEN AND ADD TO LIST
 				token = new HTMLToken(url, text, title);
@@ -149,7 +150,25 @@ public class Webcrawler {
 		//MUST CONTAIN 1 OF THE FOLLOWING WORDS
 		String[] contains1 = {"html", ".ca", /*".com", ".org"*/ };
 		//MUST NOT CONTAIN THE FOLLOWING SEQUENCES
-		String[] not = {"fr", "events/action", "stores", "linkedin", "twitter", "facebook", "maps", "finearts", "cinemas", "calendar", "food-services", "directories.html", "deans-list", "/jmsb/", "/philosophy/"};
+		String[] not = {"fr", "events/action", "stores", "linkedin", "twitter", "facebook", "maps", 
+				"finearts", "cinemas", "calendar", "food-services", "directories.html", 
+				"deans-list", "/jmsb", "/philosophy", "social-justice", "/psychology",
+				"mailto:", "/maintenance", "human-sciences", "stress-management", "/polisci", 
+				"/education/", "/spirituality", "health", "/apprentissage-performance", 
+				"/learning-performance", "/sexual-assault", "/campus-life/", "/hr", "/admissions",
+				"/exams/", "/registration", "/tuition-fees", "/graduation-convocation", "/artsci",
+				"/arts/", "/venues/", "/news", "/students", ".ca/it.html", ".ca/artsci.html", "/events", 
+				".ca/campaign.html", ".ca/jmsb.html", ".ca/sgs.html", "ca/academics", ".ca/admissions",
+				".ca/students", ".ca/parents", ".ca/about", "/offices", "/it", "cunews", "/web",
+				"/social", ".ca/offices.html", ".ca/news.html", "/cuevents", "/cuevents/", "/cce", 
+				"/summer", "/sgs", "/helpdesk/", "/aits/", "/encsit/", "/resources/", "ccca.concordia.ca",
+				"mechanical", "/ciadi/",/* "/next-gen",*/ "/international", "/library", ".ca/faculty/", 
+				".ca/provost", "/social", "/campaign","/perform", "/green-seam","/aging", "civil",
+				"building", "environmental", "aits", "chairs", "casb", "broadcasting", "journalism",
+				"https://www.concordia.ca/ginacody/about.html", 
+				"https://www.concordia.ca/ginacody/about/",
+
+		};
 		for (int i = 0 ; i < contains.length ; i++)
 			if( in.contains(contains[i]))
 				out = true;
@@ -170,7 +189,11 @@ public class Webcrawler {
 		//MUST CONTAIN ALL OF THESE WORDS
 		//String[] contains = {"concordia"};
 		//MUST CONTAIN 1 OF THE FOLLOWING WORDS
-		String[] not = {"i2kweb", "i2kconnect", "copyright.gov"};
+		String[] not = {
+				"i2kweb", "i2kconnect", "copyright.gov", "mailto", 
+				"twitter", "linkedin", "facebook", "apple", "youtube", 
+				"yahoo", "verizon"
+		};
 		for (int i = 0 ; i < not.length ; i++)
 			if( in.contains(not[i]))
 				return false;
