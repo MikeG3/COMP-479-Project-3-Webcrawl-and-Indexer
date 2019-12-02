@@ -1,0 +1,10 @@
+0			https://aitopics.org/search
+1			https://aitopics.org/search#
+2			https://aitopics.org/search#help
+3			https://aitopics.org/misc/about
+4			https://aitopics.org/misc/about#
+5			https://aitopics.org/misc/brief-history
+6			https://aitopics.org/misc/brief-history#
+7			https://aitopics.org/class/AI-Alerts
+8			https://aitopics.org/class/AI-Alerts#
+9			https://aitopics.org/class/AI-Alerts#help
