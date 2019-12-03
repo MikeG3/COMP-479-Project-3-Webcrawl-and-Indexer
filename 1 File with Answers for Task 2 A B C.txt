@@ -1,0 +1,137 @@
+TASK 2A
+
+Gina Cody dept of Engineering and Computer Science
+Department of Engineering and Computer Science (ENCS)
+Electrical and Computer Science (ECS)
+Computer Science and Software Engineering (CSSE)
+Information Systems
+Biology Department
+Chemistry Department
+Nanoscience
+Genomics
+Psycology
+
+
+
+
+TASK 2B	
+
+Nizra Bouguila
+Brigitte Jaumard
+Hassan Rivaz
+Orit Halpern
+Martin French
+Louis Patrick Leroux
+Eva Monson
+Amy Swiffen
+Rosamary Collard
+Valerie de couville
+Mark Doerksen
+Sabine Berglar
+Gilbert Émond
+Alisan Funk
+Mark Gaspar
+Marilou Ganon
+Fergus Gleeson
+Kregg Hetherington
+Lucian Ivanov
+Jochen Jaeger
+Sylvia Kairouz
+Ketra Schmitt
+Marc Lafrance
+Carmen Lamothe
+Louis Patrick Leroux
+Leanne Letourneau
+Sabine Bergler
+Tien D. Bui
+Nawwaf Kharma
+Leila Kosseim
+Adam Krzyzak
+Olga Ormandjieva
+Tiberiu Popa
+Charalambos Poullis
+René Witte
+Cheriet, M.,
+El-Gayar, Neamat Farouk
+Khanh, Phan Minh
+Tang, Yufang
+Guillevic, D
+Khayyat, Muna
+Lam, L., Adjunct 
+Lévesque, Serge
+Plamondon, Réjean
+Ponson, Dominique
+Sabourin, Robert
+Tristan Glatard
+Marta Kersten-Oertel
+Sudhir Mudur
+AL-Qawasmeh, Najla
+Al-Qudah, Rabiah
+Almuhajri, Mrouj
+Alwhishi, Ghalya
+Baratalipour, Khadijeh
+Garoot, Afnan Hashim
+Khazaee, Saeed
+Mistadi, Asma
+Shahatah, Ghadeer Hammam
+Sharifi Rad, Seyedeh Maryam
+Tamarafinide, Dittimi
+Tayanov, Vitaliy
+Vahdati, Elham
+Xu, Yan
+Zhou, Yafeng
+Baghdadi, Niloofar
+Gakhar, Sofia
+Huang, Zhitong
+Jawhar, Tawfiq
+Liu, Lili
+Safar, Maedeh
+Sekeres, John
+Taleb Soghadi, Zahra
+Mia Consalvo
+Jason Edward Lewis
+AnnLouise Davidson
+Fenwick Mcelvy
+Mourad Debabbi
+Nadia Naffi
+Frederic Godin
+Zachary Patterson
+Tristan Glatard
+Roch Glitho
+Christopher Salter
+Yael Guehenuc
+Bart Simon
+Michael Hallett
+Rustam Vahidov
+
+
+
+
+TASK 2C	
+Bioinformatics
+Human Computer Interaction
+Machine Learning
+Pattern Recognition
+Virtual Environments
+Image processing
+Water Quality Research
+Big data for making safer pipelines
+Deep Learning and Anorexia
+Machine Learning for Software Security
+RansomWare Protection
+AI for choosing right University
+Internet Daemons
+Biomaterials
+Nanoscience
+Genomics
+Participatory Media Cluster
+Technoculture Art and Games Research
+Machine Agencies
+CISC Risk Research
+Algorithmic Observatory
+Hexagram
+Linguistics / Computer Linguistics
+Advanced manufacturing
+Cyber security
+Health
+	
